@@ -1,0 +1,2522 @@
+[
+    {
+        "title": "Pozwolenie na broń wydane do celów sportowych uprawnia do posiadania broni palnej:",
+        "answers": {
+            "A": "pistoletów sygnałowych;",
+            "B": "pistoletów maszynowych o kalibrze od 6 mm do 12 mm;",
+            "C": "bocznego zapłonu z lufami gwintowanymi, o kalibrze do 6 mm;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Jesli bron nie zostanie zbyta w terminie 30 dni po utracie uprawnienia do posiadania broni nalezy:",
+        "answers": {
+            "A": "wyrazić zgodę na jej zniszczenie;",
+            "B": "złożyć broń wraz z amunicją do depozytu właściwego organu Policji;",
+            "C": "złożyć oświadczenie o przeniesieniu własności broni i amunicji na rzecz Skarbu Państwa;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Kiedy i w jaki sposób w czasie trwania konkurencji można odłożyć broń:",
+        "answers": {
+            "A": "w czasie obserwacji tarczy przez lunetę, kładąc załadowaną broń z lufą skierowaną w kierunku tarczy;",
+            "B": "w czasie trwania odpoczynków, za każdym razem kładąc załadowaną broń ostrożnie na stoliku lub półce, z lufą skierowaną w bezpiecznym kierunku;",
+            "C": "tylko po wyjęciu magazynka i po wyjęciu naboju z komory nabojowej, z lufą skierowaną w stronę kulochwytu;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Czy i w jaki sposób korzystajacy ze strzelnicy jest zobowiązany do oświadczenia o zapoznaniu sie z regulaminem strzelnicy i przepisami bezpieczeństwa?",
+        "answers": {
+            "A": "Tak, własnoręcznym podpisem w ksiażce rejestru pobytu na strzelnicy;",
+            "B": "Tak, ustnie w obecności prowadzącego strzelanie;",
+            "C": "Nie ma takiego obowiązku;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Amunicja uzywana do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) moze byc m.in. :",
+        "answers": {
+            "A": "amunicja dowolnego kalibru typu magnum lub inna amunicja dużej mocy;",
+            "B": "amunicja kal. 7,62 mm (.30'') - 9,65 mm (.38'') z pociskami wykonanymi z ołowiu lub podobnego miękkiego materiału;",
+            "C": "nie istnieją ograniczenia dotyczące amunicji używanej w konkurencjach ISSF;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Bronia uzywana do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) moze byc m.in. malokalibrowa bron palna bocznego zaplonu, w tym:",
+        "answers": {
+            "A": "pistolet dowolny to jest pistolet jednostrzałowy o kalibrze 5,6 mm (.22\"), o dowolnych wymiarach i ciężarze oraz o dowolnym oporze języka spustowego;",
+            "B": "pistolet sportowy i pistolet standardowy, to jest pistolet i rewolwer o kalibrze 5,6 mm (.22\") przeznaczony do strzelania amunicją \"long rifle\", o ciężarze wraz z rozładowanym magazynkiem nie przekraczającym 1600 g, długości lufy nie przekraczającej 158 mm oraz odległości między muszką a szczerbinką nie większej niż 220 mm, oporze języka spustowego nie mniejszym niż 1000 g, mieszczące się w pudełku o wewnętrznych wymiarach 300 mm x 150 mm x 50 mm;",
+            "C": "pistolet szybkostrzelny, to jest pistolet o kalibrze 5,6 mm (.22\") przeznaczony do strzelania amunicją \"short\", o ciężarze wraz z rozładowanym magazynkiem nie przekraczającym 1360 g, dowolnym oporze języka spustowego, mieszczący się w pudełku w wewnętrznych wymiarach 800 mm x 450 mm x 150 mm;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Iloma nabojami ładowany jest pistolet dowolny w czasie zawodów strzeleckich:",
+        "answers": {
+            "A": "5 nabojami;",
+            "B": "1 nabojem;",
+            "C": "w zależności od regulaminu zawodów;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Która z nizej wymienionych konkurencji zalicza się do dyscyplin strzelan ze strzelby gladkolufowej:",
+        "answers": {
+            "A": "Double Trap",
+            "B": "Ruchoma Tarcza",
+            "C": "Karabin 60 strzałów leżąc"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Kto nieumyslnie powoduje utrate broni palnej lub amunicji, która zgodnie z prawem pozostaje w jego dyspozycji, podlega wylacznie:",
+        "answers": {
+            "A": "grzywnie lub karze ograniczenia wolności;",
+            "B": "grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku;",
+            "C": "grzywnie, karze ograniczenia wolności albo pozbawienia wolności do 2 lat;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Kto nosi bron, naruszajac ograniczenie lub wykluczenie mozliwosci jej noszenia okreslone przez wlasciwy organ Policji w pozwoleniu na bron, albo nosi bron, naruszajac zakaz jej noszenia wprowadzony przez ministra wlasciwego do spraw wewnetrznych podlega karze:",
+        "answers": {
+            "A": "karze ograniczenia wolności;",
+            "B": "pozbawienia wolności do lat 2;",
+            "C": "aresztu lub grzywny;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Istotnymi częściami amunicji są:",
+        "answers": {
+            "A": "pociski wypełnione materiałami wybuchowymi, chemicznymi środkami obezwładniającymi lub zapalającymi albo innymi substancjami, których działanie zagraża życiu lub zdrowiu, spłonki inicjujące spalanie materiału miotającego i materiał miotający w postaci prochu strzelniczego;",
+            "B": "pociski wypełnione chemicznymi środkami obezwładniającymi, których działanie zagraża życiu lub zdrowiu, kowadełko, łuska;",
+            "C": "spłonki inicjujące spalanie materiału miotającego, łuska;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Zaświadczenia uprawniające do nabycia broni traci swoją ważność:",
+        "answers": {
+            "A": "po upływie jednego miesiąca od daty jego wystawienia",
+            "B": "po upływie trzech miesięcy od daty jego wystawienia",
+            "C": "nie traci ważności"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Czy na terenie strzelnicy wolno spożywać alkohol lub używać środki odurzające oraz czy wolno przebywać na strzelnicy osobom będącym pod ich wpływem:",
+        "answers": {
+            "A": "tak, ale za zgodą właściciela obiektu;",
+            "B": "bezwzględnie nie;",
+            "C": "tak, ale tylko za wiedzą prowadzącego strzelanie;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Po jakiej komendzie nalezy zaladowac magazynek nabojami, nastepnie wlozyc go do broni, wprowadzic pierwszy nabój do komory nabojowej i czekac na nastepne komendy prowadzacego strzelanie?",
+        "answers": {
+            "A": "Rozładuj;",
+            "B": "Ładuj;",
+            "C": "Stop;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Amunicja uzywana do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) moze byc m.in. :",
+        "answers": {
+            "A": "amunicja centralnego zapłonu kal 7,62-11,45 mm (.30''-.45'') typu magnum;",
+            "B": "każda amunicja o kalibrze 5,6 mm-11,45 mm (.22''-.45'') z pociskami pełnopłaszczowymi zawierającymi rdzeń wykonany z materiału twardszego niż stop ołowiu;",
+            "C": "amunicja bocznego zapłonu o kalibrze 5,6 mm (.22'') \"long rifle\", której pociski są wykonane z ołowiu lub podobnego miękkiego materiału;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Maksymalna waga pistoletu sportowego dopuszczonego do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) wynosi:",
+        "answers": {
+            "A": "A 1000 g.;",
+            "B": "B 1500 g.;",
+            "C": "C 1400 g.;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Podczas zawodów rozgrywanych według przepisów Miedzynarodowej Federacji Sportu Strzeleckiego (ISSF) na odleglosc 50 metrów rozgrywa się konkurencję:",
+        "answers": {
+            "A": "Karabin 60 strzałów leżąc;",
+            "B": "Pistolet pneumatyczny 40 strzałów;",
+            "C": "Pistolet szybkostrzelny 2x30 strzałów;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "W strzelectwie sportowym konkurencja TRAP to strzelanie do rzutków:",
+        "answers": {
+            "A": "wyrzucanych z dwóch budek (wysokiej i niskiej);",
+            "B": "wyrzucanych z linii stanowisk strzeleckich;",
+            "C": "wyrzucanych ze schronu znajdującego się w odległości 15 m od linii stanowisk strzeleckich;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Kto bez wymaganej rejestracji posiada bron pneumatyczna albo zbywa osobie nieuprawnionej bron pneumatyczna albo miotacz gazu obezwladniajacego lub narzedzie albo urzadzenie, którego uzywanie moze zagrazac zyciu lub zdrowiu, podlega:",
+        "answers": {
+            "A": "tylko karze aresztu;",
+            "B": "tylko karze pozbawienia wolności do lat 2;",
+            "C": "karze aresztu lub grzywny;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Kto bez wymaganego zezwolenia wyrabia bron palna albo amunicje lub nia handluje, podlega karze:",
+        "answers": {
+            "A": "pozbawienia wolności od 6 miesięcy do lat 8;",
+            "B": "pozbawienia wolności od roku do lat 10;",
+            "C": "pozbawienia wolności do lat 10 oraz utraty praw publicznych na zawsze;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "W przypadku naruszenia przez osobę posiadającą pozwolenie na broń, zasady użyczania broni osobie nieuprawnionej:",
+        "answers": {
+            "A": "organ Policji cofa obligatoryjnie pozwolenie, ale tylko w przypadku gdy dotyczy to broni palnej bojowej;",
+            "B": "organ Policji może cofnąć pozwolenie na broń;",
+            "C": "organ Policji cofa obligatoryjnie pozwolenie na broń;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Czy osoba posiadajaca pozwolenie na bron do celów sportowych jest obowiazana przedstawic wlasciwemu organowi Policji aktualne orzeczenie lekarskie i psychologiczne:",
+        "answers": {
+            "A": "nie ma takiego obowiązku;",
+            "B": "tak, raz na 3 lata;",
+            "C": "tak, raz na 5 lat;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Jakie czynnosci nalezy wykonac po komendzie \"LADUJ!\":",
+        "answers": {
+            "A": "wcześniej załadowany magazynek należy włożyć do broni i czekać na komendę \"START\";",
+            "B": "należy załadować broń wprowadzając magazynek z nabojami do pistoletu i rozpocząć strzelanie;",
+            "C": "należy załadować magazynek nabojami, następnie włożyć go do broni, wprowadzić pierwszy nabój do komory nabojowej i czekać na następne komendy prowadzącego strzelanie;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Jakie czynności należy podjąć po zakończeniu strzelania?",
+        "answers": {
+            "A": "Rozładować broń, przedstawić do kontroli prowadzącemu strzelanie i zabezpieczyć;",
+            "B": "Wyłącznie zabezpieczyć broń i schować do kabury lub pojemnika do transportu broni;",
+            "C": "Wyłącznie opuścić stanowisko strzeleckie;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Maksymalna dlugosc lufy pistoletu sportowego dopuszczonego do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) wynosi:",
+        "answers": {
+            "A": "153 mm;",
+            "B": "140 mm;",
+            "C": "175 mm;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Amunicja centralnego zapłonu jest to:",
+        "answers": {
+            "A": "amunicja, w której masa zapłonowa wprasowana jest bezpośrednio w kryzę łuski;",
+            "B": "amunicja, w której masa zapłonowa znajduje się w środku dna łuski;",
+            "C": "każda amunicja o kalibrze większym niż 5,6 mm;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Podczas zawodów rozgrywanych według przepisów Miedzynarodowej Federacji Sportu Strzeleckiego (ISSF) na odleglosc 50 metrów rozgrywa się konkurencję:",
+        "answers": {
+            "A": "Pistolet szybkostrzelny;",
+            "B": "Pistolet pneumatyczny;",
+            "C": "Pistolet dowolny;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Czy w konkurencji Pistolet sportowy 25 m można strzelać z rewolweru?:",
+        "answers": {
+            "A": "nie można;",
+            "B": "można, pod warunkiem zachowania regulaminowych ograniczeń dotyczących danej broni;",
+            "C": "tylko za zgodą prowadzącego strzelanie;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Kto uzywa w celach szkoleniowych lub sportowych broni zdolnej do razenia celów na odleglosc poza strzelnicami podlega karze:",
+        "answers": {
+            "A": "aresztu lub grzywny;",
+            "B": "wyłącznie aresztu;",
+            "C": "karze pozbawienia wolności do lat 2;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Kto bez wymaganego zezwolenia wyrabia bron palna albo amunicje lub nia handluje, podlega karze:",
+        "answers": {
+            "A": "pozbawienia wolności do roku;",
+            "B": "aresztu;",
+            "C": "pozbawienia wolności od roku do lat 10;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Wlasciwy organ Policji cofa pozwolenie na bron, jezeli osoba, której takie pozwolenie wydano:",
+        "answers": {
+            "A": "w opinii osób trzecich jej zachowanie może wykazywać pewnego rodzaju zaburzenia funkcjonowania psychologicznego;",
+            "B": "w opinii obsługi strzelnicy jest osobą z zaburzeniami funkcjonowania psychologicznego;",
+            "C": "wykazuje istotne zaburzenia funkcjonowania psychologicznego;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Amunicję można nabywać:",
+        "answers": {
+            "A": "na podstawie zaświadczenia uprawniającego do zakupu amunicji wydanego przez właściwy organ Policji lub Żandarmerii Wojskowej;",
+            "B": "na podstawie legitymacji posiadacza broni lub świadectwa broni, wyłącznie dla tej broni, która jest określona w legitymacji;",
+            "C": "na podstawie dowodu zakupu broni;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Czy dozwolone jest strzelanie na strzelnicy do innych przediotów niż cele strzeleckie oraz celowanie do ludzi, zwierząt i ptactwa?",
+        "answers": {
+            "A": "Nie;",
+            "B": "Tak, pod warunkiem wyrażenia na to zgody przez prowadzącego strzelanie;",
+            "C": "Tak, jednak tylko z broni pneumatycznej;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Na strzelnicy zwierzęta:",
+        "answers": {
+            "A": "obowiązkowo powinny być trzymane na uwięzi, pod nadzorem każdej osoby, wyznaczonej przez opiekuna;",
+            "B": "nie mogą przebywać;",
+            "C": "obowiązkowo powinny być trzymane na uwięzi i pod ścisłym nadzorem opiekuna;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Amunicja bocznego zapłonu jest to:",
+        "answers": {
+            "A": "amunicja, w której masa zapłonowa znajduje się w środku dna łuski;",
+            "B": "amunicja, w której masa zapłonowa wprasowana jest bezpośrednio w kryzę łuski;",
+            "C": "każda amunicja o kalibrze mniejszym niż 7,62 mm"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Pistolet sportowy dopuszczony do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) musi zmiescic sie w pudelko o wewnetrznych wymiarach:",
+        "answers": {
+            "A": "300 mm x 150 mm x 50 mm;",
+            "B": "450 mm x 250 mm x 75 mm;",
+            "C": "200 mm x 100 mm x 25 mm;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Odległości strzelań, które obowiązują w konkurencjach zatwierdzonych przez Międzynarodową Federację Sportu Strzeleckiego (ISSF) to:",
+        "answers": {
+            "A": "A 10 m, 25 m, 50 m, 100 m;",
+            "B": "B 10 m, 25 m, 50 m, 300 m;",
+            "C": "C 15 m, 30 m, 50 m, 300 m;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Strzelectwo sportowe składa się z następujących dyscyplin:",
+        "answers": {
+            "A": "strzelanie z pistoletu, strzelanie z karabinu, strzelanie ze strzelby gładkolufowej",
+            "B": "strzelanie z broni krótkiej, strzelanie z broni długiej, strzelanie do ruchomej tarczy;",
+            "C": "strzelanie z broni krótkiej, strzelanie z broni długiej, strzelanie do ruchomej tarczy, strzelanie do rzutków;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Kto bez wymaganego zezwolenia posiada bron palna lub amunicje, podlega karze:",
+        "answers": {
+            "A": "pozbawienia wolności do lat 5;",
+            "B": "pozbawienia wolności od 6 miesięcy do lat 8;",
+            "C": "grzywny;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Czy Sąd może odstąpić od wymierzenia kary w razie przekroczenia granicy obrony koniecznej:",
+        "answers": {
+            "A": "tak, gdy jej przekroczenie było wynikiem strachu lub wzburzenia usprawiedliwionego okolicznościami zamachu;",
+            "B": "tak, gdy jej przekroczenie było usprawiedliwione okolicznościami zamachu;",
+            "C": "nie;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Właściwy organ Policji może cofnąć pozwolenie na broń, w przypadku :",
+        "answers": {
+            "A": "naruszenia przez osobę posiadającą pozwolenie na broń obowiązku rejestracji broni;",
+            "B": "zbycia przez osobę posiadającą pozwolenie na broń posiadanej broni;",
+            "C": "wyjazdu osoby posiadającej pozwolenie na broń za granicę na czas dłuższy niż 3 miesiące;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Zarejestrowanie broni wymagajacej pozwolenia potwierdza sie:",
+        "answers": {
+            "A": "oddzielną decyzją administracyjną wydaną przez właściwy organ Policji lub Żandarmerii Wojskowej;",
+            "B": "wyłącznie w dokumentach posiadacza broni przechowywanych przez właściwy organ Policji lub Żandarmerii Wojskowej;",
+            "C": "w legitymacji posiadacza broni lub w świadectwie broni;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Czy na strzelnicy wolno używać broni innych osób korzystających ze strzelnicy:",
+        "answers": {
+            "A": "bezwzględnie nie;",
+            "B": "tak, ale tylko za zgodą prowadzącego strzelanie;",
+            "C": "tak, ale tylko za zgodą użytkownika broni;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Czy dozwolone jest strzelanie na strzelnicy do innych przediotów niż cele strzeleckie oraz celowanie do ludzi, zwierząt i ptactwa?",
+        "answers": {
+            "A": "Nie;",
+            "B": "Tak, pod warunkiem wyrażenia na to zgody przez prowadzącego strzelanie;",
+            "C": "Tak, jednak tylko z broni pneumatycznej;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Bronia o najwiekszej srednicy przewodu lufu wyrazonym w kalibrze wagomiarowym jest bron o kalibrze:",
+        "answers": {
+            "A": "16",
+            "B": "20",
+            "C": "12"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Minimalny opór jezyka spustowego w pistolecie sportowym dopuszczonym do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) wynosi:",
+        "answers": {
+            "A": "A 1000 g.;",
+            "B": "B 500 g.;",
+            "C": "C 1360 g.;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Za nie przestrzeganie regulaminów i przepisów w czasie trwania zawodów strzeleckich stosowane są następujące kary:",
+        "answers": {
+            "A": "upomnienie, ostrzeżenie, dyskwalifikacja;",
+            "B": "ostrzeżenie, odjęcie punktów, dyskwalifikacja;",
+            "C": "ostrzeżenie, dyskwalifikacja;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Pistolet sportowy 30+30 strzałów jest to konkurencja polegajaca na strzelaniu do tarczy oddalonej od zawodnika o:",
+        "answers": {
+            "A": "50 metrów;",
+            "B": "15 metrów;",
+            "C": "25 metrów;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Kto nie dopelnia obowiazku zawiadomienia Policji o utracie lub zbyciu innej osobie broni i amunicji do tej broni podlega:",
+        "answers": {
+            "A": "karze aresztu lub grzywny;",
+            "B": "tylko karze grzywny;",
+            "C": "karze pozbawienia wolności do lat 2;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Kto bez wymaganego zezwolenia wyrabia bron palna albo amunicje lub nia handluje, podlega karze:",
+        "answers": {
+            "A": "pozbawienia wolności do roku;",
+            "B": "aresztu;",
+            "C": "pozbawienia wolności od roku do lat 10;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "W przypadku naruszenia zasady uzywania broni - która jest zdolna do razenia celów na odleglosc - przez osobe posiadajaca pozwolenie na nia w celach szkoleniowych i sportowych wylacznie na strzelnicy:",
+        "answers": {
+            "A": "organ Policji cofa obligatoryjnie pozwolenie;",
+            "B": "organ Policji może cofnąć pozwolenie;",
+            "C": "organ Policji cofa obligatoryjnie pozwolenie, ale tylko w przypadku, gdy naruszenie to nastąpiło z winy umyślnej;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Pozwolenia na bron nie wydaje sie osobom:",
+        "answers": {
+            "A": "skaznym za umyślne przestępstwo lub umyślne przestępstwo skarbowe;",
+            "B": "które ukończyły 21 rok życia;",
+            "C": "nie stanowiącym zagrożenia dla siebie, porządku lub bezpieczeństwa publicznego;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Jakie dane korzystajacego ze strzelnicy musza znalezc sie w ksiazce rejestru pobytu na strzelnicy?",
+        "answers": {
+            "A": "Wyłącznei imię i nazwisko;",
+            "B": "imię, nazwisko, numer pozwolenia na broń oraz nazwę organu, który je wydał albo adres korzystającego ze strzelnicy jeśli nie posiada pozwolenia na broń oraz oświadczenie o zapoznaniu się z regulaminem strzelnicy i przepisami bezpieczeństwa, potwierdzone własnoręcznym podpisem;",
+            "C": "Rozporządzenie o ochronie danych osobowych (RODO) nie zezwala na podawanie żadnych danych poza oświadczeniem o zapoznaniu się z regulaminem strzelnicy i przepisami bezpieczeństwa;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Czy na strzelnicy wolno osobom towarzyszącym osobom korzystającym ze strzelnicy, wchodzić na stanowiska strzeleckie:",
+        "answers": {
+            "A": "tak;",
+            "B": "wolno, ale tylko za zgodą osoby korzystającej ze strzelnicy;",
+            "C": "nie;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Pistolet sportowy dopuszczony do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) musi zmiescic sie w pudelko o wewnetrznych wymiarach:",
+        "answers": {
+            "A": "300 mm x 150 mm x 50 mm;",
+            "B": "450 mm x 250 mm x 75 mm;",
+            "C": "200 mm x 100 mm x 25 mm;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Kaliber broni jest to:",
+        "answers": {
+            "A": "uśredniona średnica przewodu lufy broni palnej;",
+            "B": "średnica przewodu lufy broni palnej mierzona w komorze nabojowej;",
+            "C": "najmniejsza średnica przewodu lufy broni palnej. W przypadku luf gwintowanych kaliber broni oznacza średnicę lufy mierzoną na polach gwintu;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Pistolet szybkostrzelny jest to konkurencja polegająca na strzelaniu do 5 tarcz oddalonych od zawodnika o:",
+        "answers": {
+            "A": "25 metrów;",
+            "B": "10 metrów;",
+            "C": "50 metrów;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Strzelectwo sportowe składa się z następujących dyscyplin:",
+        "answers": {
+            "A": "strzelanie z broni krótkiej, strzelanie z broni długiej, strzelanie do ruchomej tarczy;",
+            "B": "strzelanie z pistoletu, strzelanie z karabinu, strzelanie ze strzelby gładkolufowej",
+            "C": "strzelanie z broni krótkiej, strzelanie z broni długiej, strzelanie do ruchomej tarczy, strzelanie do rzutków;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Kto porzuca bron palna lub amunicje do niej, która pozostaje w jego dyspozycji podlega:",
+        "answers": {
+            "A": "wyłącznie karze grzywny;",
+            "B": "wyłącznie karze ograniczenia wolności albo pozbawienia wolności do 2 lat;",
+            "C": "grzywnie, karze ograniczenia wolności albo pozbawienia wolności do 2 lat;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Czy Sad moze odstapic od wymierzenia kary badz zastosowac nadzwyczajne zlagodzenie kary w razie przekroczenia granicy obrony koniecznej:",
+        "answers": {
+            "A": "tak, gdy sprawca działał wyłącznie pod wpływem strachu usprawiedliwionego okolicznościami zamachu;",
+            "B": "tak, gdy sprawca działał w celu odparcia bezpośredniego, bezprawnego zamachu na jakiekolwiek dobro chronione prawem i zastosował sposób obrony niewspółmierny do niebezpieczeństwa zamachu;",
+            "C": "tak, gdy sprawca działał w celu uchylenia bezpośredniego niebezpieczeństwa grożącego dobru chronionemu prawem, a zastosował sposób niewspółmierny do niebezpieczeństwa zamachu;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Osoba posiadajaca pozwolenie na bron jest obowiazana w razie zmiany miejsca stalego pobytu zawiadomic o tym fakcie pisemnie organ Policji, wlasciwy ze wzgledu na nowe miejsce zamieszkania w terminie:",
+        "answers": {
+            "A": "7 dni od dnia zmiany miejsca zamieszkania;",
+            "B": "30 dni od dnia zmiany miejsca zamieszkania;",
+            "C": "14 dni od dnia zmiany miejsca zamieszkania;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Właściwy organ Policji może cofnąć pozwolenie na broń, w przypadku :",
+        "answers": {
+            "A": "zbycia przez osobę posiadającą pozwolenie na broń posiadanej broni;",
+            "B": "wyjazdu osoby posiadającej pozwolenie na broń za granicę na czas dłuższy niż 3 miesiące;",
+            "C": "naruszenia przez osobę posiadającą pozwolenie na broń obowiązku rejestracji broni;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Jakie czynności należą do obowiązków prowadzącego strzelanie?",
+        "answers": {
+            "A": "Odpowiadzanie za bezpieczeństwo użytkowników strzelnicy i osób im towarzyszących, wyznaczanie korzystającym ze strzelnicy stanowisk strzeleckich oraz prowadzenie książki rejestru pobytu ze strzelnicy;",
+            "B": "Prowadzenie statystyki osób przebywających na strzelnicy;",
+            "C": "Wyłącznie wydawania broni i amunicji osobom korzystającym ze strzelnicy;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Czy na strzelnicy wolno osobom towarzyszącym osobom korzystającym ze strzelnicy, wchodzić na stanowiska strzeleckie:",
+        "answers": {
+            "A": "tak;",
+            "B": "nie;",
+            "C": "wolno, ale tylko za zgodą osoby korzystającej ze strzelnicy;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Amunicja centralnego zapłonu jest to:",
+        "answers": {
+            "A": "amunicja, w której masa zapłonowa znajduje się w środku dna łuski;",
+            "B": "amunicja, w której masa zapłonowa wprasowana jest bezpośrednio w kryzę łuski;",
+            "C": "każda amunicja o kalibrze większym niż 5,6 mm;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Bronia uzywana do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) moze byc m.in.:",
+        "answers": {
+            "A": "gładkolufowa broń śrutowa, to jest strzelba o kalibrze wagomiarowym nie większym niż 10, z komorą nabojową o długości do 86 mm;",
+            "B": "gładkolufowa broń śrutowa, to jest strzelba o kalibrze wagomiarowym nie większym niż 12, z komorą nabojową o długości do 76 mm;",
+            "C": "gładkolufowa broń śrutowa, to jest strzelba o kalibrze wagomiarowym nie większym niż 12, z komorą nabojową o długości do 86 mm;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Na zawodach strzeleckich z broni krótkiej na 25 m, magazynek ladujemy nabojami:",
+        "answers": {
+            "A": "po komendzie \"ŁADUJ\";",
+            "B": "przed komendą \"ŁADUJ\";",
+            "C": "w trakcie czasu przygotowawczego;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Strzelectwo sportowe składa się z następujących dyscyplin:",
+        "answers": {
+            "A": "strzelanie z broni krótkiej, strzelanie z broni długiej, strzelanie do ruchomej tarczy;",
+            "B": "strzelanie z broni krótkiej, strzelanie z broni długiej, strzelanie do ruchomej tarczy, strzelanie do rzutków;",
+            "C": "strzelanie z pistoletu, strzelanie z karabinu, strzelanie ze strzelby gładkolufowej"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Kto nieumyslnie powoduje utrate broni palnej lub amunicji, która zgodnie z prawem pozostaje w jego dyspozycji, podlega wylacznie:",
+        "answers": {
+            "A": "grzywnie lub karze ograniczenia wolności;",
+            "B": "grzywnie, karze ograniczenia wolności albo pozbawienia wolności do 2 lat;",
+            "C": "grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Kto nosi bron, naruszajac ograniczenie lub wykluczenie mozliwosci jej noszenia okreslone przez wlasciwy organ Policji w pozwoleniu na bron, albo nosi bron, naruszajac zakaz jej noszenia wprowadzony przez ministra wlasciwego do spraw wewnetrznych podlega karze:",
+        "answers": {
+            "A": "aresztu lub grzywny;",
+            "B": "wyłącznie aresztu;",
+            "C": "karze ograniczenia wolności do lat 2;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Pozwolenia na broń nie wymaga się w przypadku:",
+        "answers": {
+            "A": "posiadania broni palnej sportowej;",
+            "B": "żadna z pozostałych dwóch odpowiedzi nie jest prawidłowa;",
+            "C": "posiadania broni pneumatycznej;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Która z niżej wymienionych odpowiedzi stanowi definicję broni palnej:",
+        "answers": {
+            "A": "każda przenośna broń lufowa, która miota, jest przeznaczona do miotania lub może być przystosowana do miotania jednego lub większej liczby pocisków lub substancji w wyniku działania materiału miotającego;",
+            "B": "urządzenie, które w wyniku działania sprężonych gazów, powstających na skutek spalania materiału miotającego może razić cele na odległość;",
+            "C": "urządzenie, które w wyniku działania sprężonych gazów, powstających na skutek spalania materiału miotającego, jest zdolne do wystrzeliwania pocisku i rażenia celów na odległość;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Jakie czynnosci nalezy wykonac po komendzie \"LADUJ!\":",
+        "answers": {
+            "A": "wcześniej załadowany magazynek należy włożyć do broni i czekać na komendę \"START\";",
+            "B": "należy załadować magazynek nabojami, następnie włożyć go do broni, wprowadzić pierwszy nabój do komory nabojowej i czekać na następne komendy prowadzącego strzelanie;",
+            "C": "należy załadować broń wprowadzając magazynek z nabojami do pistoletu i rozpocząć strzelanie;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Która z poniższych czynności jest na strzelnicy bezwzgelędnie zabroniona?",
+        "answers": {
+            "A": "Głośne rozmowy;",
+            "B": "Używanie telefonów komórkowych i innych urządzeń nadawczo-odbiorczych;",
+            "C": "Używanie środków odurzających;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Maksymalna dlugosc lufy pistoletu sportowego dopuszczonego do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) wynosi:",
+        "answers": {
+            "A": "153 mm;",
+            "B": "140 mm;",
+            "C": "175 mm;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) zabronione jest uzywanie m.in.:",
+        "answers": {
+            "A": "amunicji centralnego zapłonu o kalibrze mniejszym niż 8 mm (.315'');",
+            "B": "nabojów smugowych, przeciwpancernych i zapalających;",
+            "C": "amunicji z pociskami wykonanymi z ołowiu lub podobnego, miękkiego materiału;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Karabin dowolny 60 strzalów lezac jest to konkurencja polegajaca na strzelaniu do tarczy oddalonej od zawodnika o:",
+        "answers": {
+            "A": "100 metrów;",
+            "B": "10 metrów;",
+            "C": "50 metrów;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Które z niżej wymienionych konkurencji zaliczane są do dyscypliny strzelań ze strzelby gładkolufowej:",
+        "answers": {
+            "A": "skeet, trap, double trap, automatic trap;",
+            "B": "skeet, trap, rogacz, dzik;",
+            "C": "double trap, ruchoma tarcza, zając;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Kto posiadajac pozwolenie na bron lub posiadajac bron podlegajaca rejestracji, która nie wymaga pozwolenia na bron, nie dopelnia obowiazku pisemnego zawiadomienia wlasciwego organu Policji o zmianie miejsca stalego pobytu w terminie 14 dni od dnia zmiany miejsca stalego pobytu podlega:",
+        "answers": {
+            "A": "tylko karze grzywny;",
+            "B": "karze aresztu lub grzywny;",
+            "C": "tylko karze aresztu;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Stan wyzszej koniecznosci jest to wylacznie dzialanie w celu:",
+        "answers": {
+            "A": "uchylenia bezpośredniego niebezpieczeństwa grożącego jakiemukolwiek dobru chronionemu prawem, bądź ratowania dobra chronionego prawem, poświęcając dobro o wartości niższej od dobra ratowanego, jeżeli niebezpieczeństwa nie można uniknąć inaczej;",
+            "B": "uchylenia bezpośredniego niebezpieczeństwa, grożącego jakiemukolwiek dobru chronionemu prawem, a dobro poświęcone przedstawia wartość niższą od dobra ratowanego;",
+            "C": "uchylenia bezpośredniego niebezpieczeństwa grożącego dobru chronionemu prawem;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Broń palną można posiadać wyłącznie:",
+        "answers": {
+            "A": "na podstawie pozwolenia na broń wydanego przez właściwego ze względu na miejsce stałego pobytu zainteresowanej osoby lub siedzibę zainteresowanego podmiotu komendanta wojewódzkiego Policji,",
+            "B": "na podstawie pozwolenia na broń wydanego przez właściwego ze względu na miejsce stałego pobytu zainteresowanego podmiotu komendanta Straży Miejskiej;",
+            "C": "na podstawie licencji wydanej przez własciwy polski związek sportowy;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Od egzaminu przed komisja powolana przez wlasciwy organ Policji ze znajomosci przepisów dotyczacych posiadania i uzywania danej broni oraz umiejetnosci poslugiwania sie ta bronia zwolnieni sa:",
+        "answers": {
+            "A": "wyłącznie funkcjonariusze państwowych formacji uzbrojonych i żołnierze Sił Zbrojnych RP;",
+            "B": "m.in. członkowie Polskiego Związku Strzelectwa Sportowego posiadający licencję zezwalającą na uprawianie strzelectwa sportowego - w zakresie broni sportowej, jeżeli zdali taki egzamin na podstawie odrębnych przepisów;",
+            "C": "nikt nie jest zwolniony z takiego egzaminu;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Po jakiej komendzie nalezy zaladowac magazynek nabojami, nastepnie wlozyc go do broni, wprowadzic pierwszy nabój do komory nabojowej i czekac na nastepne komendy prowadzacego strzelanie?",
+        "answers": {
+            "A": "Ładuj;",
+            "B": "Rozładuj;",
+            "C": "Stop;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Czy na strzelnicy wolno osobom towarzyszącym osobom korzystającym ze strzelnicy, wchodzić na stanowiska strzeleckie:",
+        "answers": {
+            "A": "nie;",
+            "B": "tak;",
+            "C": "wolno, ale tylko za zgodą osoby korzystającej ze strzelnicy;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Bronia o najwiekszej srednicy przewodu lufu wyrazonym w kalibrze wagomiarowym jest bron o kalibrze:",
+        "answers": {
+            "A": "16",
+            "B": "20",
+            "C": "12"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Bronia uzywana do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) moze byc m.in.:",
+        "answers": {
+            "A": "gładkolufowa broń śrutowa, to jest strzelba o kalibrze wagomiarowym nie większym niż 10, z komorą nabojową o długości do 86 mm;",
+            "B": "gładkolufowa broń śrutowa, to jest strzelba o kalibrze wagomiarowym nie większym niż 12, z komorą nabojową o długości do 86 mm;",
+            "C": "gładkolufowa broń śrutowa, to jest strzelba o kalibrze wagomiarowym nie większym niż 12, z komorą nabojową o długości do 76 mm;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Odległości strzelań konkurencji karabinowych podczas zawodów rozgrywanych wedlug przepisów Miedzynarodowej Federacji Sportu Strzeleckiego (ISSF) to:",
+        "answers": {
+            "A": "A 10 m., 25 m., 50 m.;",
+            "B": "B 10 m., 50 m., 300 m.;",
+            "C": "C 25 m., 50 m.; 100 m."
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Na zawodach strzeleckich z broni krótkiej na 25 m, magazynek ladujemy nabojami:",
+        "answers": {
+            "A": "przed komendą \"ŁADUJ\";",
+            "B": "w trakcie czasu przygotowawczego;",
+            "C": "po komendzie \"ŁADUJ\";"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Czy Sąd może odstąpić od wymierzenia kary w razie przekroczenia granicy obrony koniecznej:",
+        "answers": {
+            "A": "tak, gdy jej przekroczenie było usprawiedliwione okolicznościami zamachu;",
+            "B": "tak, gdy jej przekroczenie było wynikiem strachu lub wzburzenia usprawiedliwionego okolicznościami zamachu;",
+            "C": "nie;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Kto bez wymaganego zezwolenia wyrabia bron palna albo amunicje lub nia handluje, podlega karze:",
+        "answers": {
+            "A": "pozbawienia wolności od roku do lat 10;",
+            "B": "pozbawienia wolności od 6 miesięcy do lat 8;",
+            "C": "pozbawienia wolności do lat 10 oraz utraty praw publicznych na zawsze;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Pozwolenia na bron nie wymaga sie w przypadku:",
+        "answers": {
+            "A": "posiadania broni palnej odziedziczonej po krewnym wstępnym;",
+            "B": "używania broni w celach sportowych na strzelnicy działającej na podstawie zezwolenia własciwego organu;",
+            "C": "posiadania broni do celów kolekcjonerskich;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Osoba posiadajaca pozwolenie na bron jest obowiazana w razie zmiany miejsca stalego pobytu zawiadomic o tym fakcie pisemnie organ Policji, wlasciwy ze wzgledu na nowe miejsce zamieszkania w terminie:",
+        "answers": {
+            "A": "7 dni od dnia zmiany miejsca zamieszkania;",
+            "B": "30 dni od dnia zmiany miejsca zamieszkania;",
+            "C": "14 dni od dnia zmiany miejsca zamieszkania;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Jakie czynnosci nalezy wykonac po komendzie \"LADUJ!\":",
+        "answers": {
+            "A": "wcześniej załadowany magazynek należy włożyć do broni i czekać na komendę \"START\";",
+            "B": "należy załadować magazynek nabojami, następnie włożyć go do broni, wprowadzić pierwszy nabój do komory nabojowej i czekać na następne komendy prowadzącego strzelanie;",
+            "C": "należy załadować broń wprowadzając magazynek z nabojami do pistoletu i rozpocząć strzelanie;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Jakie czynności należy podjąć po zakończeniu strzelania?",
+        "answers": {
+            "A": "Wyłącznie zabezpieczyć broń i schować do kabury lub pojemnika do transportu broni;",
+            "B": "Wyłącznie opuścić stanowisko strzeleckie;",
+            "C": "Rozładować broń, przedstawić do kontroli prowadzącemu strzelanie i zabezpieczyć;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Amunicja uzywana do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) moze byc m.in. :",
+        "answers": {
+            "A": "amunicja centralnego zapłonu kal 7,62-11,45 mm (.30''-.45'') typu magnum;",
+            "B": "amunicja bocznego zapłonu o kalibrze 5,6 mm (.22'') \"long rifle\", której pociski są wykonane z ołowiu lub podobnego miękkiego materiału;",
+            "C": "każda amunicja o kalibrze 5,6 mm-11,45 mm (.22''-.45'') z pociskami pełnopłaszczowymi zawierającymi rdzeń wykonany z materiału twardszego niż stop ołowiu;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Maksymalna waga karabinu pneumatycznego dopuszczonego do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) wynosi:",
+        "answers": {
+            "A": "5,5 kg;",
+            "B": "8 kg;",
+            "C": "6,5 kg;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "W strzelectwie sportowym konkurencja SKEET to strzelanie do rzutków:",
+        "answers": {
+            "A": "wyrzucanych z dwóch budek (wysokiej i niskiej);",
+            "B": "wyrzucanych ze schronu znajdującego się w odległości 15 m od linii stanowisk strzeleckich;",
+            "C": "wyrzucanych z linii stanowisk strzeleckich;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Za nie przestrzeganie regulaminów i przepisów w czasie trwania zawodów strzeleckich stosowane są następujące kary:",
+        "answers": {
+            "A": "upomnienie, ostrzeżenie, dyskwalifikacja;",
+            "B": "ostrzeżenie, odjęcie punktów, dyskwalifikacja;",
+            "C": "ostrzeżenie, dyskwalifikacja;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Kto nie dopelnia obowiazku zawiadomienia Policji o utracie lub zbyciu innej osobie broni i amunicji do tej broni podlega:",
+        "answers": {
+            "A": "tylko karze grzywny;",
+            "B": "karze pozbawienia wolności do lat 2;",
+            "C": "karze aresztu lub grzywny;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Stan wyzszej koniecznosci jest to wylacznie dzialanie w celu:",
+        "answers": {
+            "A": "uchylenia bezpośredniego niebezpieczeństwa, grożącego jakiemukolwiek dobru chronionemu prawem, a dobro poświęcone przedstawia wartość niższą od dobra ratowanego;",
+            "B": "uchylenia bezpośredniego niebezpieczeństwa grożącego jakiemukolwiek dobru chronionemu prawem, bądź ratowania dobra chronionego prawem, poświęcając dobro o wartości niższej od dobra ratowanego, jeżeli niebezpieczeństwa nie można uniknąć inaczej;",
+            "C": "uchylenia bezpośredniego niebezpieczeństwa grożącego dobru chronionemu prawem;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Czy osoba deponująca broń w jednostce Policji ma prawo do dostępu do niej w celu okazania jej osobom zainteresowanym jej nabyciem oraz oceny stanu broni:",
+        "answers": {
+            "A": "tak, pod warunkiem, że otrzyma zgodę komendanta wojewódzkiego Policji",
+            "B": "nie",
+            "C": "tak, ale dopiero po uzgodnieniu z jednostką deponującą;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Właściwy organ Policji cofa pozwolenie na broń, jeżeli osoba, której takie pozwolenie wydano:",
+        "answers": {
+            "A": "jest podejrzewana o dokonanie umyślnego przestępstwa lub umyślnego przestępstwa skarbowego;",
+            "B": "została ukarana za wykroczenie w ruchu drogowym;",
+            "C": "jest skazana prawomocnym orzeczeniem sądu za umyślne przestępstwo lub umyślne przestępstwo skarbowe;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Czy dozwolone jest strzelanie na strzelnicy do innych przediotów niż cele strzeleckie oraz celowanie do ludzi, zwierząt i ptactwa?",
+        "answers": {
+            "A": "Nie;",
+            "B": "Tak, pod warunkiem wyrażenia na to zgody przez prowadzącego strzelanie;",
+            "C": "Tak, jednak tylko z broni pneumatycznej;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Komendę \"STOP\" może wydać:",
+        "answers": {
+            "A": "każda osoba, która uzna, iż istnieje zagrożenie na strzelnicy;",
+            "B": "tylko prowadzący strzelanie;",
+            "C": "tylko osoba uczestnicząca w strzelaniu;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Amunicja uzywana do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) moze byc m.in. :",
+        "answers": {
+            "A": "amunicja dowolnego kalibru typu magnum lub inna amunicja dużej mocy;",
+            "B": "amunicja kal. 7,62 mm (.30'') - 9,65 mm (.38'') z pociskami wykonanymi z ołowiu lub podobnego miękkiego materiału;",
+            "C": "nie istnieją ograniczenia dotyczące amunicji używanej w konkurencjach ISSF;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Minimalny opór jezyka spustowego w pistolecie pneumatycznym dopuszczonym do konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) wynosi:",
+        "answers": {
+            "A": "A 500 g.",
+            "B": "B 1000 g.",
+            "C": "C 750 g."
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Pistolet sportowy 30+30 strzałów jest to konkurencja polegajaca na strzelaniu do tarczy oddalonej od zawodnika o:",
+        "answers": {
+            "A": "50 metrów;",
+            "B": "15 metrów;",
+            "C": "25 metrów;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Iloma nabojami ładowany jest pistolet dowolny w czasie zawodów strzeleckich:",
+        "answers": {
+            "A": "1 nabojem;",
+            "B": "5 nabojami;",
+            "C": "w zależności od regulaminu zawodów;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "W stosunku do osoby, która nie dopelnila obowiazku rejestracji broni albo obowiazku zdania broni do depozytu mozna zastosowac:",
+        "answers": {
+            "A": "karę aresztu lub grzywny;",
+            "B": "tylko karę aresztu;",
+            "C": "tylko karę grzywny;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Kto bez wymaganego zezwolenia posiada bron palna lub amunicje, podlega karze:",
+        "answers": {
+            "A": "pozbawienia wolności do lat 5;",
+            "B": "pozbawienia wolności od 6 miesięcy do lat 8;",
+            "C": "grzywny;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Pozwolenie na broń - z wyłączeniem broni sportowej i myśliwskiej - wydaje się osobie, która ukończyła:",
+        "answers": {
+            "A": "20 rok życia;",
+            "B": "18 rok życia;",
+            "C": "21 rok życia;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Osoby posiadajace bron palna, sa zobowiazane do :",
+        "answers": {
+            "A": "przechowywanie broni w urządzeniach spełniających wymagania conajmniej klasy S1 według normy PN-EN 14450",
+            "B": "przechowywania broni zgodnie z wymaganiami jej producenta;",
+            "C": "przechowywania broni w szafach stalowych lub sejfach posiadających zamki atestowane;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Kiedy i w jaki sposób w czasie trwania konkurencji można odłożyć broń:",
+        "answers": {
+            "A": "w czasie obserwacji tarczy przez lunetę, kładąc załadowaną broń z lufą skierowaną w kierunku tarczy;",
+            "B": "w czasie trwania odpoczynków, za każdym razem kładąc załadowaną broń ostrożnie na stoliku lub półce, z lufą skierowaną w bezpiecznym kierunku;",
+            "C": "tylko po wyjęciu magazynka i po wyjęciu naboju z komory nabojowej, z lufą skierowaną w stronę kulochwytu;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Broń palna na strzelnicy poza stanowiskiem strzeleckim musi być:",
+        "answers": {
+            "A": "zabezpieczona i schowana w kaburze;",
+            "B": "rozładowana, zabezpieczona i schowana w kaburze, pokrowcu lub kasecie przeznaczonej do przenoszenia broni;",
+            "C": "rozładowana, schowana wyłącznie w pokrowcu;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Maksymalna dlugosc lufy pistoletu dowolnego dopuszczonego do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) wynosi:",
+        "answers": {
+            "A": "maksymalna długość lufy nie jest określona;",
+            "B": "220 mm;",
+            "C": "850 mm;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) zabronione jest uzywanie m.in.:",
+        "answers": {
+            "A": "nabojów smugowych, przeciwpancernych i zapalających;",
+            "B": "amunicji centralnego zapłonu o kalibrze mniejszym niż 8 mm (.315'');",
+            "C": "amunicji z pociskami wykonanymi z ołowiu lub podobnego, miękkiego materiału;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Jakie są ograniczenia w ubiorze zawodników strzelających konkurencje pistoletowe według regulaminów zatwierdzonych przez Międzynarodową Federację Sportu Strzeleckiego (ISSF)?:",
+        "answers": {
+            "A": "ubiór powinien mieć ograniczenia zgodne z przepisami międzynarodowymi dotyczącymi strzelań karabinowych;",
+            "B": "nie ma ograniczeń w ubiorze zawodników strzelających z broni krótkiej;",
+            "C": "elementy ubioru nie mogą podpierać lub unieruchamiać ciała, ramion, nadgarstka, nóg lub kostek. Buty nie mogą zakrywać kostki;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Podczas zawodów rozgrywanych według przepisów Miedzynarodowej Federacji Sportu Strzeleckiego (ISSF) na odleglosc 50 metrów rozgrywa się konkurencję:",
+        "answers": {
+            "A": "Pistolet pneumatyczny 40 strzałów;",
+            "B": "Karabin 60 strzałów leżąc;",
+            "C": "Pistolet szybkostrzelny 2x30 strzałów;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Kto posiadajac pozwolenie na bron lub posiadajac bron podlegajaca rejestracji, która nie wymaga pozwolenia na bron, nie dopelnia obowiazku pisemnego zawiadomienia wlasciwego organu Policji o zmianie miejsca stalego pobytu w terminie 14 dni od dnia zmiany miejsca stalego pobytu podlega:",
+        "answers": {
+            "A": "karze aresztu lub grzywny;",
+            "B": "tylko karze grzywny;",
+            "C": "tylko karze aresztu;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Kto porzuca bron palna lub amunicje do niej, która pozostaje w jego dyspozycji podlega:",
+        "answers": {
+            "A": "wyłącznie karze grzywny;",
+            "B": "wyłącznie karze ograniczenia wolności albo pozbawienia wolności do 2 lat;",
+            "C": "grzywnie, karze ograniczenia wolności albo pozbawienia wolności do 2 lat;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Właściwy organ Policji może cofnąć pozwolenie na broń w przypadku naruszenia przez osobę posiadającą pozwolenie:",
+        "answers": {
+            "A": "konieczności posiadania miejsca zameldowania na terytorium Rzeczypospolitej Polskiej;",
+            "B": "obowiązku rejestracji broni;",
+            "C": "obowiązku powiadomienia Policji o utracie broni."
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Pozwolenia na bron nie wydaje sie osobom:",
+        "answers": {
+            "A": "nie uzaleznionym od alkoholu;",
+            "B": "nie skazanym prawomocnym orzeczeniem sądu;",
+            "C": "wykazującym istotne zaburzenia funkcjonowania psychologicznego;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Składanie się, celowanie i strzelanie \"na sucho\" dozwolone jest:",
+        "answers": {
+            "A": "na stanowisku treningowym lub strzeleckim lub w innym miejscu do tego wyznaczonym za zgodą prowadzącego strzelanie ;",
+            "B": "w dowolnym miejscu, przy zachowaniu warunków bezpieczeństwa;",
+            "C": "jest bezwzględnie zabronione;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Jakie czynnosci nalezy wykonac po komendzie \"ROZLADUJ!\"?",
+        "answers": {
+            "A": "rozładować i schować broń;",
+            "B": "rozładować broń, zabezpieczyć ją i umieścić na stanowisku strzeleckim;",
+            "C": "wyjąć magazynek i trzymać broń w pozycji \"gotów\";"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Amunicja bocznego zapłonu jest to:",
+        "answers": {
+            "A": "amunicja, w której masa zapłonowa znajduje się w środku dna łuski;",
+            "B": "każda amunicja o kalibrze mniejszym niż 7,62 mm",
+            "C": "amunicja, w której masa zapłonowa wprasowana jest bezpośrednio w kryzę łuski;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Bronia uzywana do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) moze byc m.in. malokalibrowa bron palna bocznego zaplonu, w tym:",
+        "answers": {
+            "A": "pistolet sportowy i pistolet standardowy, to jest pistolet i rewolwer o kalibrze 5,6 mm (.22\") przeznaczony do strzelania amunicją \"long rifle\", o ciężarze wraz z rozładowanym magazynkiem nie przekraczającym 1600 g, długości lufy nie przekraczającej 158 mm oraz odległości między muszką a szczerbinką nie większej niż 220 mm, oporze języka spustowego nie mniejszym niż 1000 g, mieszczące się w pudełku o wewnętrznych wymiarach 300 mm x 150 mm x 50 mm;",
+            "B": "pistolet dowolny to jest pistolet jednostrzałowy o kalibrze 5,6 mm (.22\"), o dowolnych wymiarach i ciężarze oraz o dowolnym oporze języka spustowego;",
+            "C": "pistolet szybkostrzelny, to jest pistolet o kalibrze 5,6 mm (.22\") przeznaczony do strzelania amunicją \"short\", o ciężarze wraz z rozładowanym magazynkiem nie przekraczającym 1360 g, dowolnym oporze języka spustowego, mieszczący się w pudełku w wewnętrznych wymiarach 800 mm x 450 mm x 150 mm;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Odleglosci strzelan konkurencji pistoletowych podczas zawodów rozgrywanych wedlug przepisów Miedzynarodowej Federacji Sportu Strzeleckiego (ISSF) to:",
+        "answers": {
+            "A": "A 15 m.; 25 m.;",
+            "B": "B 10 m., 25 m., 50 m.;",
+            "C": "C 10 m.; 25 m.; 300 m.;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Za nie przestrzeganie regulaminów i przepisów w czasie trwania zawodów strzeleckich stosowane są następujące kary:",
+        "answers": {
+            "A": "ostrzeżenie, odjęcie punktów, dyskwalifikacja;",
+            "B": "upomnienie, ostrzeżenie, dyskwalifikacja;",
+            "C": "ostrzeżenie, dyskwalifikacja;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "W stosunku do osoby, która nie dopelnila obowiazku rejestracji broni albo obowiazku zdania broni do depozytu mozna zastosowac:",
+        "answers": {
+            "A": "tylko karę aresztu;",
+            "B": "tylko karę grzywny;",
+            "C": "karę aresztu lub grzywny;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Stan wyzszej koniecznosci jest to wylacznie dzialanie w celu:",
+        "answers": {
+            "A": "uchylenia bezpośredniego niebezpieczeństwa, grożącego jakiemukolwiek dobru chronionemu prawem, a dobro poświęcone przedstawia wartość niższą od dobra ratowanego;",
+            "B": "uchylenia bezpośredniego niebezpieczeństwa grożącego jakiemukolwiek dobru chronionemu prawem, bądź ratowania dobra chronionego prawem, poświęcając dobro o wartości niższej od dobra ratowanego, jeżeli niebezpieczeństwa nie można uniknąć inaczej;",
+            "C": "uchylenia bezpośredniego niebezpieczeństwa grożącego dobru chronionemu prawem;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Bronią pneumatyczną jest wyłącznie:",
+        "answers": {
+            "A": "niebezpieczne dla życia lub zdrowia urządzenie, które w wyniku działania sprężonego gazu jest zdolne do wystrzelenia pocisku z lufy gwintowanej albo elementu ją zastępującego, a przez to do rażenia celów na odległość;",
+            "B": "niebezpieczne dla życia lub zdrowia urządzenie, które w wyniku działania sprężonego gazu jest zdolne do wystrzelenia pocisku z lufy lub elementu ją zastępującego i przez to do rażenia celu na odległość, a energia kinetyczna pocisku opuszczającego lufę lub element ją zastępujący przekracza 17J;",
+            "C": "niebezpieczne dla życia lub zdrowia urządzenie, które w wyniku działania sprężonego gazu jest zdolne do wystrzelenia pocisku z lufy gładkiej, a przez to do rażenia celów na odległość;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Pozwolenie na bron wydane do celów sportowych uprawnia do posiadania broni palnej:",
+        "answers": {
+            "A": "centralnego zapłonu z lufami gwintowanymi o kalibrze do 12 mm;",
+            "B": "broni gazowej o kalibrach od 6 mm do 12 mm",
+            "C": "broni palnej, konstrukcyjnie przeznaczonej do strzelania wyłącznie amunicją ślepą, w tym samoczynnej;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Po jakiej komendzie nalezy zaladowac magazynek nabojami, nastepnie wlozyc go do broni, wprowadzic pierwszy nabój do komory nabojowej i czekac na nastepne komendy prowadzacego strzelanie?",
+        "answers": {
+            "A": "Rozładuj;",
+            "B": "Stop;",
+            "C": "Ładuj;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Czy na strzelnicy wolno używać broni innych osób korzystających ze strzelnicy:",
+        "answers": {
+            "A": "tak, ale tylko za zgodą użytkownika broni;",
+            "B": "bezwzględnie nie;",
+            "C": "tak, ale tylko za zgodą prowadzącego strzelanie;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Kaliber wagomiarowy okresla:",
+        "answers": {
+            "A": "liczbę kul o średnicy przewodu lufy, jaką można odlać z ołowiu o masie jednego funta angielskiego (453,6 g);",
+            "B": "średnicę pocisku wyrażoną w setnych częściach cala angielskiego;",
+            "C": "wagę naboju;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Bronia uzywana do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) moze byc m.in.:",
+        "answers": {
+            "A": "gładkolufowa broń śrutowa, to jest strzelba o kalibrze wagomiarowym nie większym niż 12, z komorą nabojową o długości do 76 mm;",
+            "B": "gładkolufowa broń śrutowa, to jest strzelba o kalibrze wagomiarowym nie większym niż 10, z komorą nabojową o długości do 86 mm;",
+            "C": "gładkolufowa broń śrutowa, to jest strzelba o kalibrze wagomiarowym nie większym niż 12, z komorą nabojową o długości do 86 mm;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Karabin dowolny 60 strzalów lezac jest to konkurencja polegajaca na strzelaniu do tarczy oddalonej od zawodnika o:",
+        "answers": {
+            "A": "100 metrów;",
+            "B": "10 metrów;",
+            "C": "50 metrów;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Postawy strzeleckie w konkurencjach karabinowych rozgrywanych wedlug przepisów Miedzynarodowej Federacji Sportu Strzeleckiego (ISSF) to:",
+        "answers": {
+            "A": "wyłacznie stojąca;",
+            "B": "klęcząca, leżąca, stojąca;",
+            "C": "wyłącznie leżąca;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Kto nie dopelnia obowiazku zawiadomienia Policji o utracie lub zbyciu innej osobie broni i amunicji do tej broni podlega:",
+        "answers": {
+            "A": "tylko karze grzywny;",
+            "B": "karze aresztu lub grzywny;",
+            "C": "karze pozbawienia wolności do lat 2;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Czy Sad moze odstapic od wymierzenia kary badz zastosowac nadzwyczajne zlagodzenie kary w razie przekroczenia granicy obrony koniecznej:",
+        "answers": {
+            "A": "tak, gdy sprawca działał wyłącznie pod wpływem strachu usprawiedliwionego okolicznościami zamachu;",
+            "B": "tak, gdy sprawca działał w celu uchylenia bezpośredniego niebezpieczeństwa grożącego dobru chronionemu prawem, a zastosował sposób niewspółmierny do niebezpieczeństwa zamachu;",
+            "C": "tak, gdy sprawca działał w celu odparcia bezpośredniego, bezprawnego zamachu na jakiekolwiek dobro chronione prawem i zastosował sposób obrony niewspółmierny do niebezpieczeństwa zamachu;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Właściwy organ Policji cofa pozwolenie na broń, jeżeli osoba, której takie pozwolenie wydano:",
+        "answers": {
+            "A": "czasowo przebywa poza miejscem stałego pobytu;",
+            "B": "nie jest obywatelem Rzeczypospolitej Polskiej;",
+            "C": "nie posiada miejsca stałego pobytu na terytorium Rzeczypospolitej Polskiej;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Bronią palną jest wyłącznie:",
+        "answers": {
+            "A": "broń bojowa, myśliwska, sportowa, pneumatyczna, przedmiot do obezwładniania osób za pomocą ładunków elektrycznych;",
+            "B": "broń bojowa, myśliwska, sportowa, gazowa, alarmowa i sygnałowa;",
+            "C": "broń myśliwska, sportowa, gazowa, pneumatyczna, sygnałowa;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Czy na strzelnicy wolno używać broni innych osób korzystających ze strzelnicy:",
+        "answers": {
+            "A": "bezwzględnie nie;",
+            "B": "tak, ale tylko za zgodą prowadzącego strzelanie;",
+            "C": "tak, ale tylko za zgodą użytkownika broni;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Która z poniższych czynności jest na strzelnicy bezwzględnie zabroniona?",
+        "answers": {
+            "A": "Korzystanie z broni innych użytkowników za ich zgodą;",
+            "B": "Ładowanie broni po komendzie \"ŁADUJ\"",
+            "C": "Spożywanie alkoholu;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Amunicja uzywana do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) moze byc m.in. :",
+        "answers": {
+            "A": "amunicja bocznego zapłonu o kalibrze 5,6 mm (.22'') \"long rifle\", której pociski są wykonane z ołowiu lub podobnego miękkiego materiału;",
+            "B": "amunicja centralnego zapłonu kal 7,62-11,45 mm (.30''-.45'') typu magnum;",
+            "C": "każda amunicja o kalibrze 5,6 mm-11,45 mm (.22''-.45'') z pociskami pełnopłaszczowymi zawierającymi rdzeń wykonany z materiału twardszego niż stop ołowiu;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Minimalny opór jezyka spustowego w pistolecie dowlonym dopuszczonym do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) wynosi:",
+        "answers": {
+            "A": "A 1000 g.;",
+            "B": "B 500 g. ;",
+            "C": "C nie jest określony;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Która z nizej wymienionych konkurencji zalicza się do dyscyplin strzelan ze strzelby gladkolufowej:",
+        "answers": {
+            "A": "Double Trap",
+            "B": "Ruchoma Tarcza",
+            "C": "Karabin 60 strzałów leżąc"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Odległości strzelań konkurencji karabinowych podczas zawodów rozgrywanych wedlug przepisów Miedzynarodowej Federacji Sportu Strzeleckiego (ISSF) to:",
+        "answers": {
+            "A": "A 10 m., 25 m., 50 m.;",
+            "B": "B 25 m., 50 m.; 100 m.",
+            "C": "C 10 m., 50 m., 300 m.;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Kto bez wymaganego zezwolenia wyrabia bron palna albo amunicje lub nia handluje, podlega karze:",
+        "answers": {
+            "A": "pozbawienia wolności od roku do lat 10;",
+            "B": "pozbawienia wolności od 6 miesięcy do lat 8;",
+            "C": "pozbawienia wolności do lat 10 oraz utraty praw publicznych na zawsze;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Kto nie dopelnia obowiazku zawiadomienia Policji o utracie lub zbyciu innej osobie broni i amunicji do tej broni podlega:",
+        "answers": {
+            "A": "tylko karze grzywny;",
+            "B": "karze aresztu lub grzywny;",
+            "C": "karze pozbawienia wolności do lat 2;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Na wniosek szkoły, organizacji sportowej, Polskiego Związku Łowieckiego, stowarzyszenia obronnego pozwolenie na broń do celów sportowych lub łowieckich może być wydane osobie mającej ukończone:",
+        "answers": {
+            "A": "18 lat",
+            "B": "16 lat",
+            "C": "20 lat"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Wlasciwy organ Policji cofa pozwolenie na bron, jezeli osoba, której takie pozwolenie wydano:",
+        "answers": {
+            "A": "jest skazana prawomocnym orzeczeniem sądu za nieumyślne przestępstwo przeciwko bezpieczeństwu w komunikacji ale wyłącznie w przypadku gdy sprawca zbiegł z miejsca zdarzenia;",
+            "B": "jest skazana prawomocnym orzeczeniem sądu za nieumyślne przestępstwo przeciwko bezpieczeństwu w komunikacji popełnione w stanie nietrzeźwości lub pod wpływem środka odurzającego albo gdy sprawca zbiegł z miejsca zdarzenia",
+            "C": "przewozi broń własnym środkiem transportu w części przeznaczonej dla pasażerów;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Czy i w jaki sposób korzystajacy ze strzelnicy jest zobowiązany do oświadczenia o zapoznaniu sie z regulaminem strzelnicy i przepisami bezpieczeństwa?",
+        "answers": {
+            "A": "Tak, ustnie w obecności prowadzącego strzelanie;",
+            "B": "Tak, własnoręcznym podpisem w ksiażce rejestru pobytu na strzelnicy;",
+            "C": "Nie ma takiego obowiązku;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Zgodnie z rozporzadzeniem Ministra Spraw Wewnętrznych i Adnimistracji z dnia 15 marca 2000 roku sprawie wzorcowego regulaminu strzelnic broń palna na strzelnicy poza stanowiskiem strzeleckim musi byc:",
+        "answers": {
+            "A": "zabezpieczona i schowana w kaburze;",
+            "B": "rozładowana, schowana wyłącznie w pokrowcu;",
+            "C": "rozładowana, zabezpieczona i schowana w kaburze, pokrowcu lub kasecie przeznaczonej do przenoszenia broni;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Maksymalna dlugosc lufy pistoletu dowolnego dopuszczonego do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) wynosi:",
+        "answers": {
+            "A": "220 mm;",
+            "B": "maksymalna długość lufy nie jest określona;",
+            "C": "850 mm;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Amunicja centralnego zapłonu jest to:",
+        "answers": {
+            "A": "amunicja, w której masa zapłonowa znajduje się w środku dna łuski;",
+            "B": "amunicja, w której masa zapłonowa wprasowana jest bezpośrednio w kryzę łuski;",
+            "C": "każda amunicja o kalibrze większym niż 5,6 mm;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Odległości strzelań, które obowiązują w konkurencjach zatwierdzonych przez Międzynarodową Federację Sportu Strzeleckiego (ISSF) to:",
+        "answers": {
+            "A": "A 10 m, 25 m, 50 m, 300 m;",
+            "B": "B 10 m, 25 m, 50 m, 100 m;",
+            "C": "C 15 m, 30 m, 50 m, 300 m;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "W konkurencjach pistoletowych rozgrywanych wedlug przepisów Miedzynarodowej Federacji Sportu Strzeleckiego (ISSF) dopuszczalne sa:",
+        "answers": {
+            "A": "optyczne przyrządy celownicze;",
+            "B": "plamkowe przyrządy celownicze;",
+            "C": "wyłącznie otwarte przyrządy celownicze;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Kto nosi bron po spozyciu alkoholu lub substancji psychotropowych albo podobnie dzialajacego podlega:",
+        "answers": {
+            "A": "karze pozbawienia wolności do lat 3;",
+            "B": "karze aresztu lub grzywny;",
+            "C": "karze ograniczenia wolności do lat 2;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Kto bez wymaganego zezwolenia posiada bron palna lub amunicje, podlega karze:",
+        "answers": {
+            "A": "pozbawienia wolności do lat 5;",
+            "B": "grzywny;",
+            "C": "pozbawienia wolności od 6 miesięcy do lat 8;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Bronią pneumatyczną jest wyłącznie:",
+        "answers": {
+            "A": "niebezpieczne dla życia lub zdrowia urządzenie, które w wyniku działania sprężonego gazu jest zdolne do wystrzelenia pocisku z lufy lub elementu ją zastępującego i przez to do rażenia celu na odległość, a energia kinetyczna pocisku opuszczającego lufę lub element ją zastępujący przekracza 17J;",
+            "B": "niebezpieczne dla życia lub zdrowia urządzenie, które w wyniku działania sprężonego gazu jest zdolne do wystrzelenia pocisku z lufy gwintowanej albo elementu ją zastępującego, a przez to do rażenia celów na odległość;",
+            "C": "niebezpieczne dla życia lub zdrowia urządzenie, które w wyniku działania sprężonego gazu jest zdolne do wystrzelenia pocisku z lufy gładkiej, a przez to do rażenia celów na odległość;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Czy dozwolone jest dokonywanie przeróbek broni zmieniających jej rodzaj, kaliber lub przeznaczenie:",
+        "answers": {
+            "A": "tak;",
+            "B": "tylko z broni gazowej na broń bojową;",
+            "C": "nie;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Jakie czynnosci nalezy wykonac po komendzie \"ROZLADUJ!\"?",
+        "answers": {
+            "A": "rozładować i schować broń;",
+            "B": "rozładować broń, zabezpieczyć ją i umieścić na stanowisku strzeleckim;",
+            "C": "wyjąć magazynek i trzymać broń w pozycji \"gotów\";"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Odkładanie załadowanej broni w czasie przerw w strzelaniu jest:",
+        "answers": {
+            "A": "dopuszczalne w czasie patrzenia przez lunetę;",
+            "B": "bezwzględnie zabronione;",
+            "C": "dopuszczalne, ale wyłącznie w konkurencjach pistoletowych;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Kaliber broni jest to:",
+        "answers": {
+            "A": "najmniejsza średnica przewodu lufy broni palnej. W przypadku luf gwintowanych kaliber broni oznacza średnicę lufy mierzoną na polach gwintu;",
+            "B": "uśredniona średnica przewodu lufy broni palnej;",
+            "C": "średnica przewodu lufy broni palnej mierzona w komorze nabojowej;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Maksymalna dlugosc lufy pistoletu sportowego dopuszczonego do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) wynosi:",
+        "answers": {
+            "A": "140 mm;",
+            "B": "153 mm;",
+            "C": "175 mm;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Jakie są ograniczenia w ubiorze zawodników strzelających konkurencje pistoletowe według regulaminów zatwierdzonych przez Międzynarodową Federację Sportu Strzeleckiego (ISSF)?:",
+        "answers": {
+            "A": "ubiór powinien mieć ograniczenia zgodne z przepisami międzynarodowymi dotyczącymi strzelań karabinowych;",
+            "B": "elementy ubioru nie mogą podpierać lub unieruchamiać ciała, ramion, nadgarstka, nóg lub kostek. Buty nie mogą zakrywać kostki;",
+            "C": "nie ma ograniczeń w ubiorze zawodników strzelających z broni krótkiej;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Iloma nabojami ładowany jest pistolet dowolny w czasie zawodów strzeleckich:",
+        "answers": {
+            "A": "1 nabojem;",
+            "B": "5 nabojami;",
+            "C": "w zależności od regulaminu zawodów;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Kto nieumyslnie powoduje utrate broni palnej lub amunicji, która zgodnie z prawem pozostaje w jego dyspozycji, podlega wylacznie:",
+        "answers": {
+            "A": "grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku;",
+            "B": "grzywnie lub karze ograniczenia wolności;",
+            "C": "grzywnie, karze ograniczenia wolności albo pozbawienia wolności do 2 lat;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Kto nosi bron, naruszajac ograniczenie lub wykluczenie mozliwosci jej noszenia okreslone przez wlasciwy organ Policji w pozwoleniu na bron, albo nosi bron, naruszajac zakaz jej noszenia wprowadzony przez ministra wlasciwego do spraw wewnetrznych podlega karze:",
+        "answers": {
+            "A": "wyłącznie aresztu;",
+            "B": "karze ograniczenia wolności do lat 2;",
+            "C": "aresztu lub grzywny;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Broń pneumatyczną można posiadać wyłącznie:",
+        "answers": {
+            "A": "na podstawie karty rejestracyjnej broni pneumatycznej wydanej przez właściwego ze względu na miejsce stałego pobytu zainteresowanej osoby lub siedzibę zainteresowanego podmiotu komendanta powiatowego Policji, a w przypadku żołnierzy zawodowych - właściwego komendanta oddziału Żandarmerii Wojskowej;",
+            "B": "na podstawie pozwolenia na broń wydanego przez właściwego ze względu na miejsce stałego pobytu zainteresowanej osoby lub zainteresowanego podmiotu komendanta powiatowego Policji, a w przypadku żołnierzy zawodowych - właściwego komendanta oddziału Żandarmerii Wojskowej",
+            "C": "na podstawie pozwolenia na broń wydanego przez komendanta wojewódzkiego Policji, bez względu na miejsce stałego pobytu zainteresowanej osoby lub siedzibę zainteresowanego podmiotu, a w przypadku żołnierzy zawodowych - na podstawie pozwolenia wydanego przez właściwy organ wojskowy;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Czy organy Policji mają prawo zobowiązać posiadacza pozwolenia na broń, poddaniu się badaniom lekarskim i psychologicznym:",
+        "answers": {
+            "A": "tylko w przypadku, gdy istnieje uzasadnione podejrzenie, że osoba taka wykazuje istotne zaburzenia funkcjonowania psychologicznego, uzależnienie od alkoholu lub substancji psychoaktywnych, ograniczoną sprawność psychofizyczną oraz zaburzenia psychiczne, o których mowa w ustawie o ochronie zdrowia psychicznego;",
+            "B": "nie;",
+            "C": "tylko w przypadku, gdy osoba taka uzależniona jest od alkoholu i wykazuje zaburzenia funkcjonowania psychologicznego;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Komendę \"STOP\" może wydać:",
+        "answers": {
+            "A": "tylko prowadzący strzelanie;",
+            "B": "tylko osoba uczestnicząca w strzelaniu;",
+            "C": "każda osoba, która uzna, iż istnieje zagrożenie na strzelnicy;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Po zakończeniu strzelania, przed opuszczeniem stanowiska strzeleckiego broń musi być:",
+        "answers": {
+            "A": "wyczyszczona i schowana do pokrowca lub kabury;",
+            "B": "rozładowana, zabezpieczona;",
+            "C": "schowana do kabury lub pokrowca;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Maksymalna waga karabinu pneumatycznego dopuszczonego do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) wynosi:",
+        "answers": {
+            "A": "8 kg;",
+            "B": "6,5 kg;",
+            "C": "5,5 kg;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Bronia o najwiekszej srednicy przewodu lufu wyrazonym w kalibrze wagomiarowym jest bron o kalibrze:",
+        "answers": {
+            "A": "12",
+            "B": "16",
+            "C": "20"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "W strzelectwie sportowym konkurencja TRAP to strzelanie do rzutków:",
+        "answers": {
+            "A": "wyrzucanych z dwóch budek (wysokiej i niskiej);",
+            "B": "wyrzucanych ze schronu znajdującego się w odległości 15 m od linii stanowisk strzeleckich;",
+            "C": "wyrzucanych z linii stanowisk strzeleckich;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Podczas zawodów rozgrywanych według przepisów Miedzynarodowej Federacji Sportu Strzeleckiego (ISSF) na odleglosc 50 metrów rozgrywa się konkurencję:",
+        "answers": {
+            "A": "Karabin 60 strzałów leżąc;",
+            "B": "Pistolet pneumatyczny 40 strzałów;",
+            "C": "Pistolet szybkostrzelny 2x30 strzałów;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Kto nosi bron, naruszajac ograniczenie lub wykluczenie mozliwosci jej noszenia okreslone przez wlasciwy organ Policji w pozwoleniu na bron, albo nosi bron, naruszajac zakaz jej noszenia wprowadzony przez ministra wlasciwego do spraw wewnetrznych podlega karze:",
+        "answers": {
+            "A": "karze ograniczenia wolności;",
+            "B": "aresztu lub grzywny;",
+            "C": "pozbawienia wolności do lat 2;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Czy Sąd może odstąpić od wymierzenia kary w razie przekroczenia granicy obrony koniecznej:",
+        "answers": {
+            "A": "tak, gdy jej przekroczenie było wynikiem strachu lub wzburzenia usprawiedliwionego okolicznościami zamachu;",
+            "B": "tak, gdy jej przekroczenie było usprawiedliwione okolicznościami zamachu;",
+            "C": "nie;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Bronią palną jest wyłącznie:",
+        "answers": {
+            "A": "broń bojowa, myśliwska, sportowa, pneumatyczna, przedmiot do obezwładniania osób za pomocą ładunków elektrycznych;",
+            "B": "broń bojowa, myśliwska, sportowa, gazowa, alarmowa i sygnałowa;",
+            "C": "broń myśliwska, sportowa, gazowa, pneumatyczna, sygnałowa;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Wlasciwy organ Policji cofa pozwolenie na bron, jezeli osoba, której takie pozwolenie wydano:",
+        "answers": {
+            "A": "jest skazana prawomocnym orzeczeniem sądu za nieumyślne przestępstwo przeciwko bezpieczeństwu w komunikacji popełnione w stanie nietrzeźwości lub pod wpływem środka odurzającego albo gdy sprawca zbiegł z miejsca zdarzenia",
+            "B": "jest skazana prawomocnym orzeczeniem sądu za nieumyślne przestępstwo przeciwko bezpieczeństwu w komunikacji ale wyłącznie w przypadku gdy sprawca zbiegł z miejsca zdarzenia;",
+            "C": "przewozi broń własnym środkiem transportu w części przeznaczonej dla pasażerów;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Czy prowadzący strzelanie może usunąć ze strzelnicy osobę nie stosującą się do jego poleceń:",
+        "answers": {
+            "A": "nie;",
+            "B": "tak;",
+            "C": "tak, ale tylko w przypadku gdy jest to osoba strzelająca;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Broń palna na strzelnicy poza stanowiskiem strzeleckim musi być:",
+        "answers": {
+            "A": "zabezpieczona i schowana w kaburze;",
+            "B": "rozładowana, schowana wyłącznie w pokrowcu;",
+            "C": "rozładowana, zabezpieczona i schowana w kaburze, pokrowcu lub kasecie przeznaczonej do przenoszenia broni;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Minimalny opór jezyka spustowego w pistolecie sportowym dopuszczonym do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) wynosi:",
+        "answers": {
+            "A": "A 1000 g.;",
+            "B": "B 500 g.;",
+            "C": "C 1360 g.;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Kaliber wagomiarowy okresla:",
+        "answers": {
+            "A": "liczbę kul o średnicy przewodu lufy, jaką można odlać z ołowiu o masie jednego funta angielskiego (453,6 g);",
+            "B": "średnicę pocisku wyrażoną w setnych częściach cala angielskiego;",
+            "C": "wagę naboju;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Odległości strzelań konkurencji karabinowych podczas zawodów rozgrywanych wedlug przepisów Miedzynarodowej Federacji Sportu Strzeleckiego (ISSF) to:",
+        "answers": {
+            "A": "A 10 m., 25 m., 50 m.;",
+            "B": "B 25 m., 50 m.; 100 m.",
+            "C": "C 10 m., 50 m., 300 m.;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "W strzelectwie sportowym konkurencja SKEET to strzelanie do rzutków:",
+        "answers": {
+            "A": "wyrzucanych z dwóch budek (wysokiej i niskiej);",
+            "B": "wyrzucanych ze schronu znajdującego się w odległości 15 m od linii stanowisk strzeleckich;",
+            "C": "wyrzucanych z linii stanowisk strzeleckich;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Stan wyzszej koniecznosci jest to wylacznie dzialanie w celu:",
+        "answers": {
+            "A": "uchylenia bezpośredniego niebezpieczeństwa grożącego jakiemukolwiek dobru chronionemu prawem, bądź ratowania dobra chronionego prawem, poświęcając dobro o wartości niższej od dobra ratowanego, jeżeli niebezpieczeństwa nie można uniknąć inaczej;",
+            "B": "uchylenia bezpośredniego niebezpieczeństwa, grożącego jakiemukolwiek dobru chronionemu prawem, a dobro poświęcone przedstawia wartość niższą od dobra ratowanego;",
+            "C": "uchylenia bezpośredniego niebezpieczeństwa grożącego dobru chronionemu prawem;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Kto porzuca bron palna lub amunicje do niej, która pozostaje w jego dyspozycji podlega:",
+        "answers": {
+            "A": "wyłącznie karze grzywny;",
+            "B": "wyłącznie karze ograniczenia wolności albo pozbawienia wolności do 2 lat;",
+            "C": "grzywnie, karze ograniczenia wolności albo pozbawienia wolności do 2 lat;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Istotnymi częściami broni palnej są:",
+        "answers": {
+            "A": "szkielet broni, baskila, lufa, komora zamkowa, magazynek;",
+            "B": "szkielet broni, lufa, komora zamkowa, zamek, bezpiecznik;",
+            "C": "szkielet broni, baskila, lufa z komorą nabojową, komora zamkowa, zamek oraz bęben nabojowy;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Posiadacz broni, w przypadku jej utraty, zobowiązany jest niezwłocznie powiadomić o tym fakcie Policję, nie później jednak niż w ciągu:",
+        "answers": {
+            "A": "24 godziny od chwili stwierdzenia utraty broni;",
+            "B": "12 godzin od chwili stwierdzenia utraty broni;",
+            "C": "48 godzin od chwili stwierdzenia utraty broni;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Komendę \"STOP\" może wydać:",
+        "answers": {
+            "A": "tylko prowadzący strzelanie;",
+            "B": "każda osoba, która uzna, iż istnieje zagrożenie na strzelnicy;",
+            "C": "tylko osoba uczestnicząca w strzelaniu;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Po zakończeniu strzelania, przed opuszczeniem stanowiska strzeleckiego broń musi być:",
+        "answers": {
+            "A": "rozładowana, zabezpieczona;",
+            "B": "wyczyszczona i schowana do pokrowca lub kabury;",
+            "C": "schowana do kabury lub pokrowca;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Bronia o najwiekszej srednicy przewodu lufu wyrazonym w kalibrze wagomiarowym jest bron o kalibrze:",
+        "answers": {
+            "A": "16",
+            "B": "20",
+            "C": "12"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Minimalny opór jezyka spustowego w pistolecie sportowym dopuszczonym do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) wynosi:",
+        "answers": {
+            "A": "A 500 g.;",
+            "B": "B 1000 g.;",
+            "C": "C 1360 g.;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Karabin dowolny 60 strzalów lezac jest to konkurencja polegajaca na strzelaniu do tarczy oddalonej od zawodnika o:",
+        "answers": {
+            "A": "100 metrów;",
+            "B": "50 metrów;",
+            "C": "10 metrów;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "W strzelectwie sportowym konkurencja SKEET to strzelanie do rzutków:",
+        "answers": {
+            "A": "wyrzucanych ze schronu znajdującego się w odległości 15 m od linii stanowisk strzeleckich;",
+            "B": "wyrzucanych z linii stanowisk strzeleckich;",
+            "C": "wyrzucanych z dwóch budek (wysokiej i niskiej);"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Kto nieumyslnie powoduje utrate broni palnej lub amunicji, która zgodnie z prawem pozostaje w jego dyspozycji, podlega wylacznie:",
+        "answers": {
+            "A": "grzywnie lub karze ograniczenia wolności;",
+            "B": "grzywnie, karze ograniczenia wolności albo pozbawienia wolności do 2 lat;",
+            "C": "grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Kto uzywa w celach szkoleniowych lub sportowych broni zdolnej do razenia celów na odleglosc poza strzelnicami podlega karze:",
+        "answers": {
+            "A": "wyłącznie aresztu;",
+            "B": "aresztu lub grzywny;",
+            "C": "karze pozbawienia wolności do lat 2;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Bronią palną jest wyłącznie:",
+        "answers": {
+            "A": "broń bojowa, myśliwska, sportowa, gazowa, alarmowa i sygnałowa;",
+            "B": "broń bojowa, myśliwska, sportowa, pneumatyczna, przedmiot do obezwładniania osób za pomocą ładunków elektrycznych;",
+            "C": "broń myśliwska, sportowa, gazowa, pneumatyczna, sygnałowa;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Osoba posiadajaca pozwolenie na bron jest obowiazana w razie zmiany miejsca stalego pobytu zawiadomic o tym fakcie pisemnie organ Policji, wlasciwy ze wzgledu na nowe miejsce zamieszkania w terminie:",
+        "answers": {
+            "A": "14 dni od dnia zmiany miejsca zamieszkania;",
+            "B": "7 dni od dnia zmiany miejsca zamieszkania;",
+            "C": "30 dni od dnia zmiany miejsca zamieszkania;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Składanie się, celowanie i strzelanie \"na sucho\" dozwolone jest:",
+        "answers": {
+            "A": "na stanowisku treningowym lub strzeleckim lub w innym miejscu do tego wyznaczonym za zgodą prowadzącego strzelanie ;",
+            "B": "w dowolnym miejscu, przy zachowaniu warunków bezpieczeństwa;",
+            "C": "jest bezwzględnie zabronione;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Czy na strzelnicy wolno używać broni innych osób korzystających ze strzelnicy:",
+        "answers": {
+            "A": "bezwzględnie nie;",
+            "B": "tak, ale tylko za zgodą użytkownika broni;",
+            "C": "tak, ale tylko za zgodą prowadzącego strzelanie;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Minimalny opór jezyka spustowego w pistolecie dowlonym dopuszczonym do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) wynosi:",
+        "answers": {
+            "A": "nie jest określony;",
+            "B": "1000 g.;",
+            "C": "500 g. ;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Amunicja bocznego zapłonu jest to:",
+        "answers": {
+            "A": "amunicja, w której masa zapłonowa znajduje się w środku dna łuski;",
+            "B": "amunicja, w której masa zapłonowa wprasowana jest bezpośrednio w kryzę łuski;",
+            "C": "każda amunicja o kalibrze mniejszym niż 7,62 mm"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Pistolet sportowy 30+30 strzałów jest to konkurencja polegajaca na strzelaniu do tarczy oddalonej od zawodnika o:",
+        "answers": {
+            "A": "50 metrów;",
+            "B": "15 metrów;",
+            "C": "25 metrów;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "W strzelectwie sportowym konkurencja TRAP to strzelanie do rzutków:",
+        "answers": {
+            "A": "wyrzucanych ze schronu znajdującego się w odległości 15 m od linii stanowisk strzeleckich;",
+            "B": "wyrzucanych z dwóch budek (wysokiej i niskiej);",
+            "C": "wyrzucanych z linii stanowisk strzeleckich;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Czy Sad moze odstapic od wymierzenia kary badz zastosowac nadzwyczajne zlagodzenie kary w razie przekroczenia granicy obrony koniecznej:",
+        "answers": {
+            "A": "tak, gdy sprawca działał wyłącznie pod wpływem strachu usprawiedliwionego okolicznościami zamachu;",
+            "B": "tak, gdy sprawca działał w celu uchylenia bezpośredniego niebezpieczeństwa grożącego dobru chronionemu prawem, a zastosował sposób niewspółmierny do niebezpieczeństwa zamachu;",
+            "C": "tak, gdy sprawca działał w celu odparcia bezpośredniego, bezprawnego zamachu na jakiekolwiek dobro chronione prawem i zastosował sposób obrony niewspółmierny do niebezpieczeństwa zamachu;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Kto bez wymaganego zezwolenia wyrabia bron palna albo amunicje lub nia handluje, podlega karze:",
+        "answers": {
+            "A": "pozbawienia wolności od 6 miesięcy do lat 8;",
+            "B": "pozbawienia wolności do lat 10 oraz utraty praw publicznych na zawsze;",
+            "C": "pozbawienia wolności od roku do lat 10;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Osoby fizyczne posiadajace bron palna i amunicje do niej, sa obowiazane przechowywac ja:",
+        "answers": {
+            "A": "w sposób uniemożliwiający dostęp do niej osobom nieuprawnionym;",
+            "B": "w kasetach, sejfach, szafach posiadających zamki atestowane;",
+            "C": "w urządzeniach spełniających wymagania conajmniej klasy S1 według normy PN-EN 14450;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Pozwolenia na broń nie wymaga się w przypadku:",
+        "answers": {
+            "A": "posiadania broni palnej sportowej;",
+            "B": "posiadania broni pneumatycznej;",
+            "C": "żadna z pozostałych dwóch odpowiedzi nie jest prawidłowa;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Jakie czynnosci nalezy wykonac po komendzie \"ROZLADUJ!\"?",
+        "answers": {
+            "A": "rozładować i schować broń;",
+            "B": "rozładować broń, zabezpieczyć ją i umieścić na stanowisku strzeleckim;",
+            "C": "wyjąć magazynek i trzymać broń w pozycji \"gotów\";"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Na strzelnicy zwierzęta:",
+        "answers": {
+            "A": "obowiązkowo powinny być trzymane na uwięzi, pod nadzorem każdej osoby, wyznaczonej przez opiekuna;",
+            "B": "nie mogą przebywać;",
+            "C": "obowiązkowo powinny być trzymane na uwięzi i pod ścisłym nadzorem opiekuna;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Maksymalna waga pistoletu dowolnego dopuszczonego do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) wynosi:",
+        "answers": {
+            "A": "jest dowolna;",
+            "B": "1000 g;",
+            "C": "A 1500 g;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Amunicja uzywana do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) moze byc m.in. :",
+        "answers": {
+            "A": "amunicja centralnego zapłonu kal 7,62-11,45 mm (.30''-.45'') typu magnum;",
+            "B": "każda amunicja o kalibrze 5,6 mm-11,45 mm (.22''-.45'') z pociskami pełnopłaszczowymi zawierającymi rdzeń wykonany z materiału twardszego niż stop ołowiu;",
+            "C": "amunicja bocznego zapłonu o kalibrze 5,6 mm (.22'') \"long rifle\", której pociski są wykonane z ołowiu lub podobnego miękkiego materiału;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Podczas zawodów rozgrywanych według przepisów Miedzynarodowej Federacji Sportu Strzeleckiego (ISSF) na odleglosc 50 metrów rozgrywa się konkurencję:",
+        "answers": {
+            "A": "Karabin 60 strzałów leżąc;",
+            "B": "Pistolet pneumatyczny 40 strzałów;",
+            "C": "Pistolet szybkostrzelny 2x30 strzałów;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Za nie przestrzeganie regulaminów i przepisów w czasie trwania zawodów strzeleckich stosowane są następujące kary:",
+        "answers": {
+            "A": "upomnienie, ostrzeżenie, dyskwalifikacja;",
+            "B": "ostrzeżenie, odjęcie punktów, dyskwalifikacja;",
+            "C": "ostrzeżenie, dyskwalifikacja;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Kto uzywa w celach szkoleniowych lub sportowych broni zdolnej do razenia celów na odleglosc poza strzelnicami podlega karze:",
+        "answers": {
+            "A": "wyłącznie aresztu;",
+            "B": "aresztu lub grzywny;",
+            "C": "karze pozbawienia wolności do lat 2;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Kto nieumyslnie powoduje utrate broni palnej lub amunicji, która zgodnie z prawem pozostaje w jego dyspozycji, podlega wylacznie:",
+        "answers": {
+            "A": "grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku;",
+            "B": "grzywnie lub karze ograniczenia wolności;",
+            "C": "grzywnie, karze ograniczenia wolności albo pozbawienia wolności do 2 lat;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Pozwolenie na broń wydane do celów sportowych uprawnia do posiadania broni palnej:",
+        "answers": {
+            "A": "gładkolufowej;",
+            "B": "pistoletów sygnałowych;",
+            "C": "broni alarmowej w postaci rewolwerów centralnego zapłonu o kalibrach od 6 mm do 12 mm;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Bron zakupiona na podstawie zaswiadczenia uprawniajacego do nabycia broni nalezy zarejestrowac w ciagu:",
+        "answers": {
+            "A": "3 dni od daty zakupu;",
+            "B": "5 dni od daty zakupu;",
+            "C": "7 dni od daty zakupu;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Wyjmowanie broni na strzelnicy odbywa się wyłącznie na:",
+        "answers": {
+            "A": "stanowisku strzeleckim lub treningowym tylko na polecenie prowadzącego strzelanie lub trening strzelecki;",
+            "B": "stanowisku strzeleckim lub treningowym;",
+            "C": "stanowisku strzeleckim lub treningowym za zgodą właściciela strzelnicy;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Jakie czynności należy podjąć po zakończeniu strzelania?",
+        "answers": {
+            "A": "Wyłącznie zabezpieczyć broń i schować do kabury lub pojemnika do transportu broni;",
+            "B": "Wyłącznie opuścić stanowisko strzeleckie;",
+            "C": "Rozładować broń, przedstawić do kontroli prowadzącemu strzelanie i zabezpieczyć;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Maksymalna waga karabinu pneumatycznego dopuszczonego do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) wynosi:",
+        "answers": {
+            "A": "8 kg;",
+            "B": "5,5 kg;",
+            "C": "6,5 kg;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Kaliber broni jest to:",
+        "answers": {
+            "A": "uśredniona średnica przewodu lufy broni palnej;",
+            "B": "najmniejsza średnica przewodu lufy broni palnej. W przypadku luf gwintowanych kaliber broni oznacza średnicę lufy mierzoną na polach gwintu;",
+            "C": "średnica przewodu lufy broni palnej mierzona w komorze nabojowej;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Podczas zawodów rozgrywanych wedlug przepisów Miedzynarodowej Federacji Sportu Strzeleckiego (ISSF) na odleglosc 10 metrów rozgrywa sie konkurencje:",
+        "answers": {
+            "A": "Karabin pneumatyczny;",
+            "B": "Pistolet dowolny;",
+            "C": "Pistolet centralnego zapłonu;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Czy w konkurencji Pistolet sportowy 25 m można strzelać z rewolweru?:",
+        "answers": {
+            "A": "nie można;",
+            "B": "można, pod warunkiem zachowania regulaminowych ograniczeń dotyczących danej broni;",
+            "C": "tylko za zgodą prowadzącego strzelanie;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Kto nosi bron po spozyciu alkoholu lub substancji psychotropowych albo podobnie dzialajacego podlega:",
+        "answers": {
+            "A": "karze pozbawienia wolności do lat 3;",
+            "B": "karze aresztu lub grzywny;",
+            "C": "karze ograniczenia wolności do lat 2;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Kto uzywa w celach szkoleniowych lub sportowych broni zdolnej do razenia celów na odleglosc poza strzelnicami podlega karze:",
+        "answers": {
+            "A": "aresztu lub grzywny;",
+            "B": "ograniczenia wolności do lat 2;",
+            "C": "pozbawienia wolności do lat 2;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Organ Policji obligatoryjnie cofa pozwolenie jeżeli osoba, której pozwolenie wydano:",
+        "answers": {
+            "A": "nie przestrzega obowiązku rejestracji broni w ciągu 5 dni od dnia zakupu;",
+            "B": "nie przestrzega warunków określonych w pozwoleniu na broń;",
+            "C": "nie przestrzega obowiązku zawiadamiania właściwego organu Policji o zmianie miejsca zamieszkania w terminie 14 dni od dnia jego zmiany;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "W rozumieniu ustawy o broni i amunicji noszenie broni oznacza:",
+        "answers": {
+            "A": "każdy sposób przemieszczania broni;",
+            "B": "każdy sposób przemieszczania broni środkami transportu publicznego;",
+            "C": "każdy sposób przemieszczania załadowanej broni przez osobę posiadającą broń;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Po jakiej komendzie należy rozladować broń, zabezpieczyć ją i umieścić na stanowisku strzeleckim?",
+        "answers": {
+            "A": "Stop;",
+            "B": "Ładuj;",
+            "C": "Rozładuj;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Jakie czynności należy wykonać po komendzie \"STOP!\":",
+        "answers": {
+            "A": "bezzwłocznie przerwać strzelanie;",
+            "B": "natychmiast rozładować broń;",
+            "C": "wyjąc magazynek i czekać na dalsze polecenia;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) zabronione jest uzywanie m.in.:",
+        "answers": {
+            "A": "amunicji centralnego zapłonu o kalibrze mniejszym niż 8 mm (.315'');",
+            "B": "amunicji z pociskami wykonanymi z ołowiu lub podobnego, miękkiego materiału;",
+            "C": "nabojów smugowych, przeciwpancernych i zapalających;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Minimalny opór jezyka spustowego w pistolecie pneumatycznym dopuszczonym do konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) wynosi:",
+        "answers": {
+            "A": "A 1000 g.",
+            "B": "B 750 g.",
+            "C": "C 500 g."
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Na zawodach strzeleckich z broni krótkiej na 25 m, magazynek ladujemy nabojami:",
+        "answers": {
+            "A": "przed komendą \"ŁADUJ\";",
+            "B": "po komendzie \"ŁADUJ\";",
+            "C": "w trakcie czasu przygotowawczego;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Podczas zawodów rozgrywanych według przepisów Miedzynarodowej Federacji Sportu Strzeleckiego (ISSF) na odleglosc 50 metrów rozgrywa się konkurencję:",
+        "answers": {
+            "A": "Pistolet szybkostrzelny;",
+            "B": "Pistolet pneumatyczny;",
+            "C": "Pistolet dowolny;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Stan wyzszej koniecznosci jest to wylacznie dzialanie w celu:",
+        "answers": {
+            "A": "uchylenia bezpośredniego niebezpieczeństwa grożącego jakiemukolwiek dobru chronionemu prawem, bądź ratowania dobra chronionego prawem, poświęcając dobro o wartości niższej od dobra ratowanego, jeżeli niebezpieczeństwa nie można uniknąć inaczej;",
+            "B": "uchylenia bezpośredniego niebezpieczeństwa, grożącego jakiemukolwiek dobru chronionemu prawem, a dobro poświęcone przedstawia wartość niższą od dobra ratowanego;",
+            "C": "uchylenia bezpośredniego niebezpieczeństwa grożącego dobru chronionemu prawem;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Kto posiadajac pozwolenie na bron lub posiadajac bron podlegajaca rejestracji, która nie wymaga pozwolenia na bron, nie dopelnia obowiazku pisemnego zawiadomienia wlasciwego organu Policji o zmianie miejsca stalego pobytu w terminie 14 dni od dnia zmiany miejsca stalego pobytu podlega:",
+        "answers": {
+            "A": "tylko karze grzywny;",
+            "B": "karze aresztu lub grzywny;",
+            "C": "tylko karze aresztu;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Amunicja sa wylacznie:",
+        "answers": {
+            "A": "naboje scalone przeznaczone do strzelania z broni palnej;",
+            "B": "naboje przeznaczone do strzelania z broni palnej i broni pneumatycznej;",
+            "C": "naboje przeznaczone do strzelania z broni palnej;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Właściwy organ Policji w stosunku do osoby posiadającej pozwolenie na broń, która nosi broń, znajdując się w stanie po użyciu alkoholu lub substancji psychotropowej albo środka zastępczego,:",
+        "answers": {
+            "A": "przejmuje do depozytu broń wraz z dokumentami potwierdzającymi legalność posiadania broni, nie podejmując żadnych czynności administracyjnych;",
+            "B": "cofa pozwolenie na broń;",
+            "C": "może cofnąć pozwolenie na broń, uzależniając to od zawartości alkoholu we krwi osoby zatrzymanej z bronią;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Jakie czynności należy podjąć po zakończeniu strzelania?",
+        "answers": {
+            "A": "Rozładować broń, przedstawić do kontroli prowadzącemu strzelanie i zabezpieczyć;",
+            "B": "Wyłącznie zabezpieczyć broń i schować do kabury lub pojemnika do transportu broni;",
+            "C": "Wyłącznie opuścić stanowisko strzeleckie;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Czy dozwolone jest strzelanie na strzelnicy do innych przediotów niż cele strzeleckie oraz celowanie do ludzi, zwierząt i ptactwa?",
+        "answers": {
+            "A": "Tak, pod warunkiem wyrażenia na to zgody przez prowadzącego strzelanie;",
+            "B": "Tak, jednak tylko z broni pneumatycznej;",
+            "C": "Nie;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) zabronione jest uzywanie m.in.:",
+        "answers": {
+            "A": "amunicji centralnego zapłonu o kalibrze mniejszym niż 8 mm (.315'');",
+            "B": "nabojów smugowych, przeciwpancernych i zapalających;",
+            "C": "amunicji z pociskami wykonanymi z ołowiu lub podobnego, miękkiego materiału;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Minimalny opór jezyka spustowego w pistolecie pneumatycznym dopuszczonym do konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) wynosi:",
+        "answers": {
+            "A": "A 500 g.",
+            "B": "B 1000 g.",
+            "C": "C 750 g."
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Iloma nabojami ładowany jest pistolet dowolny w czasie zawodów strzeleckich:",
+        "answers": {
+            "A": "5 nabojami;",
+            "B": "w zależności od regulaminu zawodów;",
+            "C": "1 nabojem;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Karabin dowolny 60 strzalów lezac jest to konkurencja polegajaca na strzelaniu do tarczy oddalonej od zawodnika o:",
+        "answers": {
+            "A": "100 metrów;",
+            "B": "50 metrów;",
+            "C": "10 metrów;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Kto nieumyslnie powoduje utrate broni palnej lub amunicji, która zgodnie z prawem pozostaje w jego dyspozycji, podlega wylacznie:",
+        "answers": {
+            "A": "grzywnie lub karze ograniczenia wolności;",
+            "B": "grzywnie, karze ograniczenia wolności albo pozbawienia wolności do 2 lat;",
+            "C": "grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Stan wyzszej koniecznosci jest to wylacznie dzialanie w celu:",
+        "answers": {
+            "A": "uchylenia bezpośredniego niebezpieczeństwa, grożącego jakiemukolwiek dobru chronionemu prawem, a dobro poświęcone przedstawia wartość niższą od dobra ratowanego;",
+            "B": "uchylenia bezpośredniego niebezpieczeństwa grożącego jakiemukolwiek dobru chronionemu prawem, bądź ratowania dobra chronionego prawem, poświęcając dobro o wartości niższej od dobra ratowanego, jeżeli niebezpieczeństwa nie można uniknąć inaczej;",
+            "C": "uchylenia bezpośredniego niebezpieczeństwa grożącego dobru chronionemu prawem;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "W przypadku naruszenia zasady uzywania broni - która jest zdolna do razenia celów na odleglosc - przez osobe posiadajaca pozwolenie na nia w celach szkoleniowych i sportowych wylacznie na strzelnicy:",
+        "answers": {
+            "A": "organ Policji może cofnąć pozwolenie;",
+            "B": "organ Policji cofa obligatoryjnie pozwolenie;",
+            "C": "organ Policji cofa obligatoryjnie pozwolenie, ale tylko w przypadku, gdy naruszenie to nastąpiło z winy umyślnej;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Pozwolenia na bron nie wydaje sie osobom:",
+        "answers": {
+            "A": "nie uzaleznionym od alkoholu;",
+            "B": "nie skazanym prawomocnym orzeczeniem sądu;",
+            "C": "wykazującym istotne zaburzenia funkcjonowania psychologicznego;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Po zakończeniu strzelania, przed opuszczeniem stanowiska strzeleckiego broń musi być:",
+        "answers": {
+            "A": "wyczyszczona i schowana do pokrowca lub kabury;",
+            "B": "rozładowana, zabezpieczona;",
+            "C": "schowana do kabury lub pokrowca;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Po jakiej komendzie należy rozladować broń, zabezpieczyć ją i umieścić na stanowisku strzeleckim?",
+        "answers": {
+            "A": "Rozładuj;",
+            "B": "Stop;",
+            "C": "Ładuj;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Kaliber wagomiarowy okresla:",
+        "answers": {
+            "A": "średnicę pocisku wyrażoną w setnych częściach cala angielskiego;",
+            "B": "wagę naboju;",
+            "C": "liczbę kul o średnicy przewodu lufy, jaką można odlać z ołowiu o masie jednego funta angielskiego (453,6 g);"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Bronia uzywana do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) moze byc m.in.:",
+        "answers": {
+            "A": "gładkolufowa broń śrutowa, to jest strzelba o kalibrze wagomiarowym nie większym niż 10, z komorą nabojową o długości do 86 mm;",
+            "B": "gładkolufowa broń śrutowa, to jest strzelba o kalibrze wagomiarowym nie większym niż 12, z komorą nabojową o długości do 86 mm;",
+            "C": "gładkolufowa broń śrutowa, to jest strzelba o kalibrze wagomiarowym nie większym niż 12, z komorą nabojową o długości do 76 mm;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Pistolet szybkostrzelny jest to konkurencja polegająca na strzelaniu do 5 tarcz oddalonych od zawodnika o:",
+        "answers": {
+            "A": "10 metrów;",
+            "B": "25 metrów;",
+            "C": "50 metrów;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Za nie przestrzeganie regulaminów i przepisów w czasie trwania zawodów strzeleckich stosowane są następujące kary:",
+        "answers": {
+            "A": "upomnienie, ostrzeżenie, dyskwalifikacja;",
+            "B": "ostrzeżenie, dyskwalifikacja;",
+            "C": "ostrzeżenie, odjęcie punktów, dyskwalifikacja;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Kto bez wymaganego zezwolenia wyrabia bron palna albo amunicje lub nia handluje, podlega karze:",
+        "answers": {
+            "A": "pozbawienia wolności od 6 miesięcy do lat 8;",
+            "B": "pozbawienia wolności od roku do lat 10;",
+            "C": "pozbawienia wolności do lat 10 oraz utraty praw publicznych na zawsze;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Kto nosi bron, naruszajac ograniczenie lub wykluczenie mozliwosci jej noszenia okreslone przez wlasciwy organ Policji w pozwoleniu na bron, albo nosi bron, naruszajac zakaz jej noszenia wprowadzony przez ministra wlasciwego do spraw wewnetrznych podlega karze:",
+        "answers": {
+            "A": "aresztu lub grzywny;",
+            "B": "wyłącznie aresztu;",
+            "C": "karze ograniczenia wolności do lat 2;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Broń palną można posiadać wyłącznie:",
+        "answers": {
+            "A": "na podstawie pozwolenia na broń wydanego przez właściwego ze względu na miejsce stałego pobytu zainteresowanej osoby lub siedzibę zainteresowanego podmiotu, komendanta wojewódzkiego Policji, a w przypadku żołnierzy zawodowych - na podstawie pozwolenia wydanego przez właściwego komendanta oddziału Żandarmerii Wojskowej;",
+            "B": "na podstawie pozwolenia na broń wydanego przez komendanta wojewódzkiego Policji, bez względu na miejsce stałego pobytu zainteresowanej osoby lub siedzibę zainteresowanego podmiotu, a w przypadku żołnierzy zawodowych - na podstawie pozwolenia wydanego przez właściwy organ wojskowy;",
+            "C": "na podstawie pozwolenia na broń wydanego przez właściwego, ze względu na miejsce stałego pobytu zainteresowanej osoby lub siedzibę zainteresowanego podmiotu, komendanta powiatowego Policji, a w przypadku żołnierzy zawodowych - na podstawie pozwolenia wydanego przez właściwy organ wojskowy;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Właściwy organ Policji może cofnąć pozwolenie na broń w przypadku naruszenia przez osobę posiadającą pozwolenie:",
+        "answers": {
+            "A": "konieczności posiadania miejsca zameldowania na terytorium Rzeczypospolitej Polskiej;",
+            "B": "obowiązku rejestracji broni;",
+            "C": "obowiązku powiadomienia Policji o utracie broni."
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Komendę \"STOP\" może wydać:",
+        "answers": {
+            "A": "każda osoba, która uzna, iż istnieje zagrożenie na strzelnicy;",
+            "B": "tylko prowadzący strzelanie;",
+            "C": "tylko osoba uczestnicząca w strzelaniu;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Na strzelnicy zwierzęta:",
+        "answers": {
+            "A": "obowiązkowo powinny być trzymane na uwięzi i pod ścisłym nadzorem opiekuna;",
+            "B": "obowiązkowo powinny być trzymane na uwięzi, pod nadzorem każdej osoby, wyznaczonej przez opiekuna;",
+            "C": "nie mogą przebywać;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Amunicja centralnego zapłonu jest to:",
+        "answers": {
+            "A": "amunicja, w której masa zapłonowa znajduje się w środku dna łuski;",
+            "B": "amunicja, w której masa zapłonowa wprasowana jest bezpośrednio w kryzę łuski;",
+            "C": "każda amunicja o kalibrze większym niż 5,6 mm;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Pistolet sportowy dopuszczony do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) musi zmiescic sie w pudelko o wewnetrznych wymiarach:",
+        "answers": {
+            "A": "450 mm x 250 mm x 75 mm;",
+            "B": "200 mm x 100 mm x 25 mm;",
+            "C": "300 mm x 150 mm x 50 mm;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Odległości strzelań konkurencji karabinowych podczas zawodów rozgrywanych wedlug przepisów Miedzynarodowej Federacji Sportu Strzeleckiego (ISSF) to:",
+        "answers": {
+            "A": "A 10 m., 50 m., 300 m.;",
+            "B": "B 10 m., 25 m., 50 m.;",
+            "C": "C 25 m., 50 m.; 100 m."
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "W strzelectwie sportowym konkurencja TRAP to strzelanie do rzutków:",
+        "answers": {
+            "A": "wyrzucanych z dwóch budek (wysokiej i niskiej);",
+            "B": "wyrzucanych z linii stanowisk strzeleckich;",
+            "C": "wyrzucanych ze schronu znajdującego się w odległości 15 m od linii stanowisk strzeleckich;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Kto nie dopelnia obowiazku zawiadomienia Policji o utracie lub zbyciu innej osobie broni i amunicji do tej broni podlega:",
+        "answers": {
+            "A": "tylko karze grzywny;",
+            "B": "karze aresztu lub grzywny;",
+            "C": "karze pozbawienia wolności do lat 2;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Kto bez wymaganego zezwolenia wyrabia bron palna albo amunicje lub nia handluje, podlega karze:",
+        "answers": {
+            "A": "pozbawienia wolności od roku do lat 10;",
+            "B": "pozbawienia wolności od 6 miesięcy do lat 8;",
+            "C": "pozbawienia wolności do lat 10 oraz utraty praw publicznych na zawsze;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Nabywca broni ma obowiązek ją zarejestrować w ciągu:",
+        "answers": {
+            "A": "7 dni od dnia zakupu;",
+            "B": "5 dni od dnia zakupu;",
+            "C": "14 dni od dnia zakupu;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Oplata za egzamin potwierdzajacy posiadanie odpowiednich kwalifikacji do uprawiania sportów o charakterze strzeleckim pobierana jest na podstawie przepisów:",
+        "answers": {
+            "A": "Ustawy z dnia 21 maja 1999 roku o broni i amunicji;",
+            "B": "Regulaminów Polskiego Związku Strzelectwa Sportowego;",
+            "C": "rozporządzenia ministra odpowiedzialnego za sprawy kultury fizycznej;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Jakie czynnosci nalezy wykonac po komendzie \"LADUJ!\":",
+        "answers": {
+            "A": "wcześniej załadowany magazynek należy włożyć do broni i czekać na komendę \"START\";",
+            "B": "należy załadować broń wprowadzając magazynek z nabojami do pistoletu i rozpocząć strzelanie;",
+            "C": "należy załadować magazynek nabojami, następnie włożyć go do broni, wprowadzić pierwszy nabój do komory nabojowej i czekać na następne komendy prowadzącego strzelanie;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Czy prowadzący strzelanie może usunąć ze strzelnicy osobę nie stosującą się do jego poleceń:",
+        "answers": {
+            "A": "nie;",
+            "B": "tak;",
+            "C": "tak, ale tylko w przypadku gdy jest to osoba strzelająca;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) zabronione jest uzywanie m.in.:",
+        "answers": {
+            "A": "amunicji bocznego zapłonu typu \"long rifle\";",
+            "B": "śrutu kal. 4,5 mm (.177'') o dowolnym kształcie wykonanego z ołowiu lub innego miękkiego materiału;",
+            "C": "amunicji o dużej mocy i typu magnum;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Maksymalna dlugosc lufy pistoletu sportowego dopuszczonego do strzelania konkurencji zatwierdzonych przez Miedzynarodowa Federacje Sportu Strzeleckiego (ISSF) wynosi:",
+        "answers": {
+            "A": "153 mm;",
+            "B": "140 mm;",
+            "C": "175 mm;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Postawy strzeleckie w konkurencjach karabinowych rozgrywanych wedlug przepisów Miedzynarodowej Federacji Sportu Strzeleckiego (ISSF) to:",
+        "answers": {
+            "A": "wyłacznie stojąca;",
+            "B": "wyłącznie leżąca;",
+            "C": "klęcząca, leżąca, stojąca;"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "title": "Pistolet sportowy 30+30 strzałów jest to konkurencja polegajaca na strzelaniu do tarczy oddalonej od zawodnika o:",
+        "answers": {
+            "A": "50 metrów;",
+            "B": "25 metrów;",
+            "C": "15 metrów;"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "title": "Kto uzywa w celach szkoleniowych lub sportowych broni zdolnej do razenia celów na odleglosc poza strzelnicami podlega karze:",
+        "answers": {
+            "A": "aresztu lub grzywny;",
+            "B": "wyłącznie aresztu;",
+            "C": "karze pozbawienia wolności do lat 2;"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "title": "Obrona konieczna to działanie wyłącznie w celu:",
+        "answers": {
+            "A": "odparcia bezprawnego zamachu na dobro chronione prawem;",
+            "B": "uchylenia bezpośredniego niebezpieczeństwa grożącego dobru chronionemu prawem;",
+            "C": "odparcia bezpośredniego, bezprawnego zamachu na jakiegokolwiek dobro chronione prawem;"
+        },
+        "correct_answer": "C"
+    }
+]
