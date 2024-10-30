@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Losowe Pytanie</title>
+    <script src="https://unpkg.com/htmx.org@1.7.0"></script>
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #e9ecef;
+            margin: 0;
+        }
+        #random-question {
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+            max-width: 600px;
+            width: 100%;
+            position: relative;
+        }
+        h2 {
+            font-size: 1.8rem;
+            margin-bottom: 25px;
+            color: #333;
+        }
+        .answer-button {
+            display: block;
+            width: 100%;
+            margin: 10px 0;
+            padding: 15px;
+            border: none;
+            border-radius: 10px;
+            font-size: 1.1rem;
+            cursor: pointer;
+            background-color: #f8f9fa;
+            color: #333;
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+        .answer-button:hover {
+            background-color: #007bff;
+            color: white;
+        }
+        .answer-button.correct {
+            background-color: #28a745; /* Zielony */
+            color: white;
+        }
+        .answer-button.incorrect {
+            background-color: #dc3545; /* Czerwony */
+            color: white;
+        }
+        #next-button {
+            display: none;
+            margin-top: 20px;
+            padding: 15px;
+            font-size: 1.2rem;
+            cursor: pointer;
+            background-color: #17a2b8;
+            color: white;
+            border: none;
+            border-radius: 10px;
+            transition: background-color 0.3s ease;
+        }
+        #next-button:hover {
+            background-color: #138496;
+        }
+        #question-count {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            font-size: 1.1rem;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+<div id="random-question">
+    <div id="question-count">Pytania rozwiązane: <span id="count">0</span></div>
+    <h2 th:text="${question.title}">Tytuł pytania</h2>
+    <input type="hidden" id="correct-answer" th:value="${question.correctAnswer}" />
+    <ul style="list-style-type: none; padding: 0;">
+        <li th:each="entry : ${question.answers}">
+            <button class="answer-button"
+                    th:attr="data-key=${entry.key}"
+                    onclick="checkAnswer(this)"
+                    th:text="${entry.key} + ': ' + ${entry.value}">
+                Odpowiedź
+            </button>
+        </li>
+    </ul>
+    <button id="next-button" onclick="loadNextQuestion()">DALEJ</button>
+</div>
+
+<script>
+    // Przenieśmy deklarację zmiennej questionCount poza funkcję, aby uniknąć ponownej deklaracji
+    if (typeof window.questionCount === 'undefined') {
+        window.questionCount = 0;
+    }
+
+    function checkAnswer(buttonElement) {
+        const selectedAnswer = buttonElement.getAttribute('data-key');
+        const correctAnswer = document.getElementById('correct-answer').value;
+        const targetElement = document.querySelector('#random-question');
+        const nextButton = document.querySelector('#next-button');
+        const answerButtons = document.querySelectorAll('.answer-button');
+
+        if (selectedAnswer.trim() === correctAnswer.trim()) {
+            buttonElement.classList.add('correct');
+            targetElement.style.backgroundColor = '#28a745'; // Zielony dla poprawnej odpowiedzi
+            nextButton.style.display = 'block'; // Pokaż przycisk "DALEJ"
+            answerButtons.forEach(button => button.disabled = true); // Dezaktywuj wszystkie przyciski po poprawnej odpowiedzi
+        } else {
+            buttonElement.classList.add('incorrect');
+            targetElement.style.backgroundColor = '#dc3545'; // Czerwony dla błędnej odpowiedzi
+            buttonElement.disabled = true; // Dezaktywuj tylko wybrany przycisk
+        }
+    }
+
+    function loadNextQuestion() {
+        window.questionCount++;
+        document.querySelector('#count').innerText = window.questionCount;
+        htmx.ajax('GET', '/questions/random', {
+            target: '#random-question',
+            swap: 'outerHTML'
+        });
+    }
+
+    document.addEventListener('htmx:afterSwap', function() {
+        // Resetuj tło po załadowaniu nowego pytania
+        const targetElement = document.querySelector('#random-question');
+        targetElement.style.backgroundColor = 'white';
+
+        // Ponownie wyświetl odpowiedni licznik pytań
+        document.querySelector('#count').innerText = window.questionCount;
+    });
+</script>
+</body>
+</html>
