@@ -3,25 +3,25 @@ services:
   app:
     image: "shooting-backend:${TAG}"
     restart: unless-stopped
-    ports:
-      - "8080:8080"
     environment:
-      - SPRING_DATA_MONGODB_URI=mongodb://mongo:27017/shooting
+      - VIRTUAL_HOST=shooting.letscode.it
+      - VIRTUAL_PORT=8080
     networks:
-      - shooting-network
+      - nginx-proxy
 
   mongo:
-    image: mongo:4.4
+    image: mongo:4.4.10-alpine
     container_name: mongodb
     restart: unless-stopped
-    ports:
-      - "27017:27017"
     volumes:
       - mongo_data:/data/db
     networks:
       - shooting-network
 
 networks:
+  nginx-proxy:
+    external:
+      name: nginx-proxy
   shooting-network:
 
 volumes:
