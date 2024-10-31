@@ -10,7 +10,7 @@ services:
       - nginx-proxy
 
   mongo:
-    image: mongo:4.4.10-alpine
+    image: mongo:4.4.10
     container_name: mongodb
     restart: unless-stopped
     volumes:
