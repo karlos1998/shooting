@@ -11,6 +11,7 @@ services:
 
   mongo:
     image: mongo:4.4.6
+    container_name: shooting_mongo
     restart: unless-stopped
     volumes:
       - mongo_data:/data/db

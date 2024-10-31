@@ -44,6 +44,22 @@ jobs:
           source: "shooting-backend.tar.gz,./docker-compose.production.yml,TAG"
           target: "~/containers/shooting"
 
+      - name: Prepare server environment
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.SERVER_HOST }}
+          username: ${{ secrets.SERVER_USER }}
+          key: ${{ secrets.SERVER_SSH_KEY }}
+          port: 22
+          script: |
+            # Create network if it does not exist
+            docker network create shooting-network || true
+            # Stop and remove any existing MongoDB container to avoid conflict
+            docker stop shooting_mongo || true
+            docker rm shooting_mongo || true
+            # Clean up old images to free space
+            docker image prune -a -f --filter "until=24h" || true
+
       - name: Start application
         uses: appleboy/ssh-action@master
         with:
@@ -62,7 +78,6 @@ jobs:
             docker-compose -f docker-compose.production.yml down || true
 
             # Usunięcie starych obrazów
-            docker image prune -a -f --filter "until=24h" || true
             docker rmi $(docker images -q shooting-backend | grep -v $TAG) || true
 
             # Załaduj nowy obraz i uruchom
