@@ -6,7 +6,7 @@ services:
     environment:
       - VIRTUAL_HOST=shooting.letscode.it
       - VIRTUAL_PORT=8080
-      - SPRING_DATA_MONGODB_URI=mongodb://shooting_mongo:27017
+      - SPRING_DATA_MONGODB_URI=mongodb://shooting_mongo:27017/shooting
     networks:
       - nginx-proxy
       - shooting-network
@@ -17,6 +17,8 @@ services:
     image: mongo:4.4.6
     container_name: shooting_mongo
     restart: unless-stopped
+    environment:
+      - 'MONGO_INITDB_DATABASE=shooting'
     networks:
       - shooting-network
 
