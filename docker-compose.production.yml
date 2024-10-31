@@ -1,0 +1,28 @@
+version: '3.2'
+services:
+  app:
+    image: "shooting-backend:${TAG}"
+    restart: unless-stopped
+    ports:
+      - "8080:8080"
+    environment:
+      - SPRING_DATA_MONGODB_URI=mongodb://mongo:27017/shooting
+    networks:
+      - shooting-network
+
+  mongo:
+    image: mongo:5.0
+    container_name: mongodb
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+    networks:
+      - shooting-network
+
+networks:
+  shooting-network:
+
+volumes:
+  mongo_data:
