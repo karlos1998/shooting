@@ -9,12 +9,14 @@ services:
     networks:
       - nginx-proxy
 
-  mongo:
+  mongodb:
     image: mongo:4.4.6
     container_name: shooting_mongo
     restart: unless-stopped
-    volumes:
-      - mongo_data:/data/db
+    environment:
+      - 'MONGO_INITDB_DATABASE=mydatabase'
+      - 'MONGO_INITDB_ROOT_PASSWORD=secret'
+      - 'MONGO_INITDB_ROOT_USERNAME=root'
     networks:
       - shooting-network
 
@@ -23,6 +25,3 @@ networks:
     external:
       name: nginx-proxy
   shooting-network:
-
-volumes:
-  mongo_data:
