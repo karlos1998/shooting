@@ -15,20 +15,16 @@ import java.util.EnumMap;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-@JsonIgnoreProperties(ignoreUnknown = true) //todo - po prostu trzeba zrobic po ludzku resource powiazanae z eleemntami w json :)
 public class Question {
     @Id
     private String id;
 
-    @JsonProperty("title")
     @Field("title")
     private String title;
 
-    @JsonProperty("answers")
     @Field("answers")
     private EnumMap<AnswerKey, String> answers;
 
-    @Field("correctAnswer")
     private AnswerKey correctAnswer;
 
     public enum AnswerKey {
