@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Witaj w Aplikacji Strzeleckiej</title>
+    <script src="https://unpkg.com/htmx.org@1.7.0"></script>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<div id="content">
+    <div id="welcome">
+        <h1>Witaj młody strzelcu!</h1>
+        <p>Witaj w aplikacji, która pomoże Ci opanować pytania egzaminacyjne i przygotować się na test z zakresu strzelectwa sportowego. Powodzenia!</p>
+        <button id="start-button" hx-get="/questions/random" hx-target="#content" hx-swap="outerHTML">ZACZYNAMY</button>
+        <div id="author">Karol Sójka &bullet; Let's Code It</div>
+    </div>
+</div>
+</body>
+</html>
