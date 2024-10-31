@@ -10,7 +10,7 @@ services:
       - nginx-proxy
 
   mongo:
-    image: mongo:4.4.10
+    image: mongo:4.4.6
     restart: unless-stopped
     volumes:
       - mongo_data:/data/db
