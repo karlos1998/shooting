@@ -5,9 +5,12 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import it.letscode.shooting.Question.Question;
 import it.letscode.shooting.Question.QuestionRepository;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.core.io.Resource;
+import org.springframework.core.io.ResourceLoader;
 
 import java.io.File;
 import java.io.IOException;
@@ -19,6 +22,10 @@ public class ShootingApplication implements CommandLineRunner {
 	@Autowired
 	private QuestionRepository questionRepository;
 
+    @Autowired
+	@Qualifier("webApplicationContext")
+	private ResourceLoader resourceLoader;
+
 	public static void main(String[] args) {
 		SpringApplication.run(ShootingApplication.class, args);
 	}
@@ -28,9 +35,10 @@ public class ShootingApplication implements CommandLineRunner {
 		for (String arg : args) {
 			if ("--init-db".equals(arg)) {
 				questionRepository.deleteAll();
-				File answersFile = new File("src/main/resources/questions.json");
+				Resource resource = resourceLoader.getResource("classpath:questions.json");
 				ObjectMapper objectMapper = new ObjectMapper();
-				List<Question> questions = objectMapper.readValue(answersFile, new TypeReference<List<Question>>() {});
+				List<Question> questions = objectMapper.readValue(resource.getInputStream(), new TypeReference<List<Question>>() {});
+
 				questionRepository.saveAll(questions);
 				System.out.println("Zapisano " + questions.size() + " rekordów do bazy danych.");
 				System.exit(0);
