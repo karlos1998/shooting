@@ -9,9 +9,11 @@
 </head>
 <body>
 <div id="random-question">
-    <div id="question-count">Pytania rozwiązane: <span id="count">0</span></div>
+    <div id="question-count">Pytania rozwiązane: <span id="count" th:text="${solvedQuestionsCount}">0</span></div>
     <h2 th:text="${question.title}">Tytuł pytania</h2>
     <input type="hidden" id="correct-answer" th:value="${question.correctAnswer}" />
+    <input type="hidden" id="question-id" th:value="${question.id}" />
+
     <ul style="list-style-type: none; padding: 0;">
         <li th:each="entry : ${question.answers}">
             <button class="answer-button"
@@ -27,9 +29,9 @@
 
 <script>
     // Deklaracja zmiennej questionCount poza funkcję, aby uniknąć ponownej deklaracji
-    if (typeof window.questionCount === 'undefined') {
-        window.questionCount = 0;
-    }
+    // if (typeof window.questionCount === 'undefined') {
+    //     window.questionCount = 0;
+    // }
 
     function checkAnswer(buttonElement) {
         const selectedAnswer = buttonElement.getAttribute('data-key');
@@ -40,18 +42,23 @@
 
         if (selectedAnswer.trim() === correctAnswer.trim()) {
             buttonElement.classList.add('correct');
-            targetElement.style.backgroundColor = '#28a745'; // Zielony dla poprawnej odpowiedzi
-            nextButton.style.display = 'block'; // Pokaż przycisk "DALEJ"
-            answerButtons.forEach(button => button.disabled = true); // Dezaktywuj wszystkie przyciski po poprawnej odpowiedzi
+            targetElement.style.backgroundColor = '#28a745';
+            nextButton.style.display = 'block';
+            answerButtons.forEach(button => button.disabled = true);
+
+            // Wyślij zapytanie do backendu, aby oznaczyć pytanie jako rozwiązane
+            const questionId = document.getElementById('question-id').value;
+            fetch(`/questions/mark-solved?questionId=${questionId}`, { method: 'POST' });
         } else {
             buttonElement.classList.add('incorrect');
-            buttonElement.disabled = true; // Dezaktywuj tylko wybrany przycisk
+            buttonElement.disabled = true;
         }
     }
 
+
     function loadNextQuestion() {
-        window.questionCount++;
-        document.querySelector('#count').innerText = window.questionCount;
+        // window.questionCount++;
+        // document.querySelector('#count').innerText = window.questionCount;
         htmx.ajax('GET', '/questions/random', {
             target: '#random-question',
             swap: 'outerHTML'
@@ -64,7 +71,7 @@
         targetElement.style.backgroundColor = 'white';
 
         // Ponownie wyświetl odpowiedni licznik pytań
-        document.querySelector('#count').innerText = window.questionCount;
+        // document.querySelector('#count').innerText = window.questionCount;
     });
 </script>
 </body>
