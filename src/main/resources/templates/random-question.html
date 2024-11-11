@@ -1,22 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Losowe Pytanie</title>
-    <script src="https://unpkg.com/htmx.org@1.7.0"></script>
-    <link rel="stylesheet" href="/css/style.css">
-</head>
-<body>
-<div id="random-question">
-    <div id="question-count">Pytania rozwiązane: <span id="count" th:text="${solvedQuestionsCount}">0</span></div>
-    <h2 th:text="${question.title}">Tytuł pytania</h2>
+<div id="random-question" class="bg-white p-6 rounded-lg shadow-lg max-w-md w-full mx-4 mt-6">
+    <div id="question-count" class="text-gray-600 mb-4">Pytania rozwiązane: <span id="count" th:text="${solvedQuestionsCount}">0</span></div>
+    <h2 class="text-xl font-semibold text-gray-800 mb-4" th:text="${question.title}">Tytuł pytania</h2>
     <input type="hidden" id="correct-answer" th:value="${question.correctAnswer}" />
     <input type="hidden" id="question-id" th:value="${question.id}" />
 
-    <ul style="list-style-type: none; padding: 0;">
+    <ul class="list-none space-y-2">
         <li th:each="entry : ${question.answers}">
-            <button class="answer-button"
+            <button class="answer-button w-full py-3 px-4 rounded-lg border border-gray-300 bg-gray-100 text-gray-700 transition-all"
                     th:attr="data-key=${entry.key}"
                     onclick="checkAnswer(this)"
                     th:text="${entry.key} + ': ' + ${entry.value}">
@@ -24,15 +14,11 @@
             </button>
         </li>
     </ul>
-    <button id="next-button" onclick="loadNextQuestion()">DALEJ</button>
+    <!-- Przycisk „Dalej” wyróżniony pomarańczowym kolorem, domyślnie ukryty -->
+    <button id="next-button" onclick="loadNextQuestion()" class="mt-6 py-2 px-4 rounded-lg bg-orange-500 text-white hover:bg-orange-600 w-full hidden">DALEJ</button>
 </div>
 
 <script>
-    // Deklaracja zmiennej questionCount poza funkcję, aby uniknąć ponownej deklaracji
-    // if (typeof window.questionCount === 'undefined') {
-    //     window.questionCount = 0;
-    // }
-
     function checkAnswer(buttonElement) {
         const selectedAnswer = buttonElement.getAttribute('data-key');
         const correctAnswer = document.getElementById('correct-answer').value;
@@ -41,38 +27,29 @@
         const answerButtons = document.querySelectorAll('.answer-button');
 
         if (selectedAnswer.trim() === correctAnswer.trim()) {
-            buttonElement.classList.add('correct');
-            targetElement.style.backgroundColor = '#28a745';
-            nextButton.style.display = 'block';
-            answerButtons.forEach(button => button.disabled = true);
+            buttonElement.classList.add('bg-green-500', 'text-white');
+            targetElement.classList.add('bg-green-100');
 
-            // Wyślij zapytanie do backendu, aby oznaczyć pytanie jako rozwiązane
-            const questionId = document.getElementById('question-id').value;
-            fetch(`/questions/mark-solved?questionId=${questionId}`, { method: 'POST' });
+            // Wyświetlenie przycisku „Dalej” i ustawienie go na kolor pomarańczowy
+            nextButton.classList.remove('hidden');
+            nextButton.classList.add('bg-orange-500', 'hover:bg-orange-600', 'text-white');
+
+            answerButtons.forEach(button => button.disabled = true);
         } else {
-            buttonElement.classList.add('incorrect');
+            buttonElement.classList.add('bg-red-500', 'text-white');
             buttonElement.disabled = true;
         }
     }
 
-
     function loadNextQuestion() {
-        // window.questionCount++;
-        // document.querySelector('#count').innerText = window.questionCount;
         htmx.ajax('GET', '/questions/random', {
-            target: '#random-question',
-            swap: 'outerHTML'
+            target: '#data-content', // Zastępuje zawartość tylko kontenera quizu
+            swap: 'innerHTML'
         });
     }
 
-    document.addEventListener('htmx:afterSwap', function() {
-        // Resetuj tło po załadowaniu nowego pytania
+    document.addEventListener('htmx:afterSwap', function () {
         const targetElement = document.querySelector('#random-question');
-        targetElement.style.backgroundColor = 'white';
-
-        // Ponownie wyświetl odpowiedni licznik pytań
-        // document.querySelector('#count').innerText = window.questionCount;
+        targetElement.classList.remove('bg-green-100');
     });
 </script>
-</body>
-</html>

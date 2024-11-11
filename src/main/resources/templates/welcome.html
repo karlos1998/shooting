@@ -1,20 +1,65 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pl">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Witaj w Aplikacji Strzeleckiej</title>
     <script src="https://unpkg.com/htmx.org@1.7.0"></script>
-    <link rel="stylesheet" href="/css/style.css">
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.0.0/dist/tailwind.min.css" rel="stylesheet">
 </head>
-<body>
-<div id="content">
-    <div id="welcome">
-        <h1>Witaj młody strzelcu!</h1>
-        <p>Witaj w aplikacji, która pomoże Ci opanować pytania egzaminacyjne i przygotować się na test z zakresu strzelectwa sportowego. Powodzenia!</p>
-        <button id="start-button" hx-get="/questions/random" hx-target="#content" hx-swap="outerHTML">ZACZYNAMY</button>
-        <div id="author">Karol Sójka &bullet; Let's Code It</div>
+<body class="bg-gray-100 min-h-screen flex flex-col items-center">
+
+<!-- Navbar -->
+<div class="w-full bg-black text-white">
+    <div class="container mx-auto px-4 py-2 flex items-center justify-between">
+        <img th:src="@{/images/logo.png}" alt="Logo" class="h-8">
+
+        <!-- Menu na dużych ekranach -->
+        <div class="hidden md:flex space-x-4">
+            <button onclick="startQuiz()" class="text-white hover:text-gray-300">Zacznij od początku</button>
+            <a href="/" class="text-white hover:text-gray-300">Wróć na stronę klubu</a>
+        </div>
+
+        <!-- Ikona hamburgera na małych ekranach -->
+        <div class="md:hidden relative">
+            <button id="menu-toggle" class="text-white focus:outline-none">
+                <!-- Ikona hamburgera -->
+                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+                </svg>
+            </button>
+            <!-- Menu rozwijane -->
+            <div id="dropdown-menu" class="absolute right-0 mt-2 w-48 bg-white rounded-md shadow-lg z-20 hidden">
+                <a href="#" onclick="startQuiz()" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-200">Zacznij od początku</a>
+                <a href="/" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-200">Wróć na stronę klubu</a>
+            </div>
+        </div>
     </div>
 </div>
+
+<!-- Quiz Container -->
+<div id="data-content">
+    <div id="quiz-container" class="bg-white p-6 rounded-lg shadow-lg max-w-md w-full mx-4 mt-6 text-center">
+        <div id="welcome">
+            <h1 class="text-2xl font-semibold text-gray-800 mb-4">Witaj młody strzelcu!</h1>
+            <p class="text-gray-600 mb-4">Witaj w aplikacji, która pomoże Ci opanować pytania egzaminacyjne i przygotować się na test z zakresu strzelectwa sportowego. Powodzenia!</p>
+            <button id="start-button" hx-get="/questions/random" hx-target="#data-content" hx-swap="innerHTML"
+                    class="bg-blue-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600 transition-all">ZACZYNAMY</button>
+            <div id="author" class="mt-6 text-sm text-gray-500">Karol Sójka &bullet; Let's Code It</div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function startQuiz() {
+        window.location.reload();
+    }
+
+    // Obsługa menu rozwijanego
+    document.getElementById('menu-toggle').addEventListener('click', function() {
+        const dropdownMenu = document.getElementById('dropdown-menu');
+        dropdownMenu.classList.toggle('hidden');
+    });
+</script>
 </body>
 </html>
