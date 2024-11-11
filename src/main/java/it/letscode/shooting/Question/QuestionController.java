@@ -1,6 +1,7 @@
 package it.letscode.shooting.Question;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -38,6 +39,7 @@ public class QuestionController {
         model.addAttribute("question", question);
 
         model.addAttribute("solvedQuestionsCount", (long) solvedQuestions.size());
+        model.addAttribute("unresolvedQuestionsCount", questionService.getUnresolvedQuestionsCount(solvedQuestions));
 
         return "random-question";
     }
@@ -53,5 +55,15 @@ public class QuestionController {
         solvedQuestions.add(questionId);
         session.setAttribute("solvedQuestions", solvedQuestions);
         return "redirect:/questions/random";
+    }
+
+    @GetMapping("/reset")
+    public ResponseEntity<Void> resetProgress(HttpSession session) {
+        Set<String> solvedQuestions = new HashSet<>();
+        session.setAttribute("solvedQuestions", solvedQuestions);
+
+        return ResponseEntity.ok()
+                .header("HX-Redirect", "/")
+                .build();
     }
 }

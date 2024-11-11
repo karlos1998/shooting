@@ -29,4 +29,12 @@ public class QuestionService {
 
         return Optional.of(availableQuestions.get(randomIndex));
     }
+
+    public int getUnresolvedQuestionsCount(Set<String> solvedQuestions) {
+        List<Question> availableQuestions = questionRepository.findAll().stream()
+                .filter(question -> !solvedQuestions.contains(question.getId()))
+                .toList();
+
+        return availableQuestions.size();
+    }
 }
