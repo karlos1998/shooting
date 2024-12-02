@@ -6,6 +6,7 @@ services:
     environment:
       - VIRTUAL_HOST=shooting.letscode.it,egzaminy.kssagittarius.pl
       - VIRTUAL_PORT=8080
+      - LETSENCRYPT_HOST=egzaminy.kssagittarius.pl
       - SPRING_DATA_MONGODB_URI=mongodb://shooting_mongo:27017/shooting
     networks:
       - nginx-proxy
